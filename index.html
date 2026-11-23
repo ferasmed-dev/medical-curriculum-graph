@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Interactive graph of the study plans of Spain's public medical schools: subjects, credits and disciplines.">
+<meta name="color-scheme" content="light dark">
+<title>Grafo del Grado en Medicina</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cg stroke='%23a78bfa' stroke-width='2'%3E%3Cpath d='M8 9 22 7M8 9l8 15M22 7l-6 17'/%3E%3C/g%3E%3Ccircle cx='8' cy='9' r='4' fill='%237aa2f7'/%3E%3Ccircle cx='22' cy='7' r='3' fill='%23f7768e'/%3E%3Ccircle cx='16' cy='24' r='5' fill='%2373daca'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+<div id="stage"><canvas id="cv" role="img"></canvas></div>
+
+<header class="bar">
+  <div class="brand"><b data-i18n="title"></b><small data-i18n="subtitle"></small></div>
+  <div class="search" role="search">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" autocomplete="off" spellcheck="false" data-i18n-placeholder="searchPlaceholder" data-i18n-aria="searchLabel" role="combobox" aria-expanded="false" aria-controls="sugg" aria-autocomplete="list">
+    <div class="sugg" id="sugg" role="listbox"></div>
+  </div>
+  <div class="seg" id="mode" role="group">
+    <button data-m="network" class="on" data-i18n="viewNetwork" data-i18n-title="viewNetworkHint" aria-pressed="true"></button>
+    <button data-m="similarity" data-i18n="viewSimilarity" data-i18n-title="viewSimilarityHint" aria-pressed="false"></button>
+  </div>
+  <button class="iconbtn" id="filtersBtn" aria-expanded="false" aria-controls="drawer">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg><span data-i18n="filters"></span>
+  </button>
+  <button class="iconbtn" id="tableBtn" aria-expanded="false" aria-controls="tablePanel">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 10h18M9 4v16"/></svg><span data-i18n="table"></span>
+  </button>
+  <button class="iconbtn lang" id="langBtn"></button>
+</header>
+
+<section class="drawer" id="drawer" aria-labelledby="filtersTitle">
+  <h4 id="filtersTitle" data-i18n="year"></h4>
+  <div class="chips" id="fYears"></div>
+  <h4 data-i18n="subjectType"></h4>
+  <div class="chips" id="fTypes"></div>
+  <h4 data-i18n="uniColour"></h4>
+  <div class="chips" id="fColour">
+    <button class="chip on" data-c="plain" data-i18n="neutral" aria-pressed="true"></button>
+    <button class="chip" data-c="region" data-i18n="byRegion" aria-pressed="false"></button>
+  </div>
+  <h4 data-i18n="display"></h4>
+  <div class="row"><label for="sLabels" data-i18n="alwaysLabels"></label><input type="checkbox" id="sLabels" checked></div>
+  <div class="row"><label for="sWeight" data-i18n="weightByEcts"></label><input type="checkbox" id="sWeight" checked></div>
+  <h4 data-i18n="physics"></h4>
+  <div class="row"><label for="sRep" data-i18n="repulsion"></label><input type="range" id="sRep" min="200" max="3000" value="1100"></div>
+  <div class="row"><label for="sDist" data-i18n="linkDistance"></label><input type="range" id="sDist" min="30" max="260" value="110"></div>
+  <div class="row"><label for="sLink" data-i18n="linkStrength"></label><input type="range" id="sLink" min="1" max="100" value="35"></div>
+  <div class="row"><label for="sGrav" data-i18n="gravity"></label><input type="range" id="sGrav" min="0" max="100" value="25"></div>
+  <div class="row"><label for="sSize" data-i18n="nodeSize"></label><input type="range" id="sSize" min="50" max="200" value="100"></div>
+  <div class="drawer-actions"><button class="btn" id="resetBtn" data-i18n="reset"></button><button class="btn" id="copyBtn" data-i18n="copyLink"></button></div>
+  <p class="hint" data-i18n="help"></p>
+</section>
+
+<section class="legend" id="legend">
+  <div class="t"><span id="legendTitle"></span><button class="tog" id="legendTog" aria-expanded="true"></button></div>
+  <div class="items" id="legendItems"></div>
+</section>
+<div class="zoom">
+  <button class="iconbtn" id="zIn" data-i18n-aria="zoomIn" data-i18n-title="zoomIn">+</button>
+  <button class="iconbtn" id="zOut" data-i18n-aria="zoomOut" data-i18n-title="zoomOut">−</button>
+  <button class="iconbtn" id="zFit" data-i18n-aria="fit" data-i18n-title="fit"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+</div>
+<footer class="stats"><span id="stats"></span><br><span class="dim" data-i18n="missing"></span><br><span class="dim" data-i18n="footer"></span></footer>
+<div class="tip" id="tip" role="tooltip"></div>
+<div class="welcome" id="welcome" data-i18n="hint"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<aside class="panel" id="panel" aria-live="polite">
+  <header>
+    <div class="kind" id="pKind"></div>
+    <h2 id="pTitle"></h2>
+    <p id="pSub"></p>
+    <button class="x" id="pClose" data-i18n-aria="close">×</button>
+  </header>
+  <div class="body" id="pBody"></div>
+</aside>
+
+<aside class="panel wide" id="tablePanel" aria-labelledby="tableTitle">
+  <header>
+    <h2 id="tableTitle" data-i18n="tableTitle"></h2>
+    <p data-i18n="tableNote"></p>
+    <div class="seg small" id="tableTabs" role="tablist">
+      <button role="tab" data-t="unis" class="on" aria-selected="true" data-i18n="tableUnis"></button>
+      <button role="tab" data-t="discs" aria-selected="false" data-i18n="tableDiscs"></button>
+    </div>
+    <button class="x" id="tClose" data-i18n-aria="close">×</button>
+  </header>
+  <div class="body" id="tBody"></div>
+</aside>
+
+<script type="module" src="src/ui.js"></script>
+</body>
+</html>

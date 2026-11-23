@@ -1,0 +1,1943 @@
+university,year,semester,subject,type,ects
+uah,1,1º,Anatomía Humana I,FB,6
+uah,1,1º,Biología: Citología y Citogenética Médicas,FB,6
+uah,1,1º,Bioquímica,FB,9
+uah,1,1º,Humanidades Médicas: Historia de la Medicina y Antropología Médica,FB,6
+uah,1,1º,Psicología Médica,OB,3
+uah,1,2º,Bioestadística / Biostatistics,FB,6
+uah,1,2º,Bioquímica Médica y Biología Molecular,OB,9
+uah,1,2º,Embriología Médica,FB,6
+uah,1,2º,Ética Médica,OB,3
+uah,1,2º,Histología Humana,OB,6
+uah,2,Anual,Anatomía Humana II,OB,12
+uah,2,1º,Epidemiología,OB,3
+uah,2,1º,Fisiología Humana I,FB,9
+uah,2,1º,"Iniciación a la Investigación, Documentación Científica y TICS",FB,6
+uah,2,1º,Organografía e Ingeniería Tisular Humanas,OB,6
+uah,2,2º,Fisiología Humana II,OB,9
+uah,2,2º,Inmunología,FB,6
+uah,2,2º,Radiología General,OB,3
+uah,2,2º,Transversal (optativa),OP,6
+uah,3,Anual,Farmacología,OB,12
+uah,3,Anual,Microbiología Médica,OB,12
+uah,3,Anual,Patología General,OB,18
+uah,3,1º,Anatomía Patológica General,OB,6
+uah,3,1º,Radiología Clínica y Diagnóstico por la Imagen,OB,3
+uah,3,2º,Fundamentos y Procedimientos Quirúrgicos,OB,9
+uah,4,Anual,Patología Médica I,OB,18
+uah,4,1º,Pediatría,OB,9
+uah,4,1º,Obstetricia,OB,6
+uah,4,1º,Patología por Aparatos y Sistemas: Aspectos Quirúrgicos y Anestesia,OB,6
+uah,4,2º,Dermatología,OB,4.5
+uah,4,2º,Urología,OB,4.5
+uah,4,2º,Anatomía Patológica Especial,OB,6
+uah,4,2º,Medicina Legal y Forense. Criminología Médica,OB,6
+uah,5,Anual,Patología Médica II,OB,18
+uah,5,1º,Otorrinolaringología,OB,4.5
+uah,5,1º,Técnicas de Comunicación en Medicina Clínica,OB,3
+uah,5,1º,Oftalmología,OB,4.5
+uah,5,1º,Traumatología y Ortopedia. Medicina Física y Rehabilitación,OB,9
+uah,5,2º,Ginecología,OB,4.5
+uah,5,2º,Atención Médica en Entornos Específicos: Atención Primaria y Urgencias,OB,4.5
+uah,5,2º,Medicina Preventiva y Salud Pública,OB,6
+uah,5,2º,Psiquiatría,OB,6
+uah,6,1º,Prácticas Tuteladas Quirúrgicas,PE,6
+uah,6,1º,Prácticas Tuteladas: Medicina Clínica I,PE,9
+uah,6,1º,Prácticas Tuteladas: Obstetricia y Ginecología,PE,6
+uah,6,1º,Prácticas Tuteladas: Psiquiatría,PE,9
+uah,6,2º,Prácticas Tuteladas: Atención Primaria,PE,6
+uah,6,2º,Prácticas Tuteladas: Medicina Clínica II,PE,9
+uah,6,2º,Prácticas Tuteladas: Pediatría,PE,9
+uah,6,2º,Trabajo Fin de Grado,TFG,6
+ua,1,,Anatomía General y Embriología Humana,FB,6
+ua,1,,Anatomía Humana I,FB,6
+ua,1,,Bioestadística,FB,6
+ua,1,,Biología Celular,FB,6
+ua,1,,Bioquímica y Biología Molecular I,FB,6
+ua,1,,Bioquímica y Biología Molecular II,FB,6
+ua,1,,Fisiología General y Biofísica,FB,6
+ua,1,,Fisiología Médica I,FB,6
+ua,1,,Historia de la Medicina y Documentación Médica,FB,6
+ua,1,,Histología General,FB,6
+ua,2,,Anatomía Humana II,FB,6
+ua,2,,Organografía Microscópica,FB,6
+ua,2,,Fisiología Médica II,FB,6
+ua,2,,Genética Humana,FB,6
+ua,2,,Psicología Médica,FB,6
+ua,2,,Anatomía Humana III,OB,6
+ua,2,,Fisiología Médica III,OB,6
+ua,2,,Epidemiología,OB,6
+ua,2,,Iniciación a la Investigación. Relación de Ayuda,OB,6
+ua,2,,Microbiología,OB,6
+ua,3,,Anatomía Patológica General y Especial,OB,6
+ua,3,,Patología General I,OB,6
+ua,3,,Radiología Básica y Clínica,OB,6
+ua,3,,Inmunología Básica y Aplicada,OB,6
+ua,3,,Introducción a la Práctica Quirúrgica,OB,6
+ua,3,,Patología General II,OB,6
+ua,3,,Farmacología,OB,6
+ua,3,,Dermatología. Cirugía Plástica y Reparadora,OB,6
+ua,3,,Bioquímica Clínica y Patología Molecular,OB,6
+ua,3,,Psiquiatría,OB,6
+ua,4,,"Medicina Legal, Ciencias Forenses y Bioética",OB,9
+ua,4,,Oftalmología. Otorrinolaringología,OB,9
+ua,4,,Obstetricia y Ginecología,OB,6
+ua,4,,Pediatría y Neonatología,OB,6
+ua,4,,Medicina y Cirugía del Aparato Digestivo,OB,6
+ua,4,,Medicina y Cirugía del Aparato Respiratorio,OB,6
+ua,4,,Medicina y Cirugía del Aparato Circulatorio,OB,6
+ua,4,,Nefrología y Urología,OB,6
+ua,4,,Patología del Aparato Locomotor,OB,6
+ua,5,,Medicina Preventiva y Salud Pública,OB,6
+ua,5,,Inmunopatología e Inmunoterapia. Reumatología,OB,9
+ua,5,,Medicina Familiar y Comunitaria. Geriatría y Cuidados Paliativos,OB,9
+ua,5,,Medicina y Cirugía del Sistema Nervioso,OB,6
+ua,5,,Endocrinología y Nutrición,OB,6
+ua,5,,Enfermedades Infecciosas y Salud Internacional,OB,6
+ua,5,,Hematología y Oncología. Radioterapia,OB,6
+ua,5,,Optativas (2 de 6 ECTS),OP,12
+ua,6,,Rotación Médica Especialidades I,PE,6
+ua,6,,Rotación Médica Especialidades II,PE,6
+ua,6,,Rotación Médica Especialidades III,PE,6
+ua,6,,Rotación Quirúrgica Especialidades I,PE,6
+ua,6,,Rotación Quirúrgica Especialidades II,PE,6
+ua,6,,Rotación en Ginecología y Obstetricia,PE,6
+ua,6,,Rotación en Pediatría,PE,6
+ua,6,,Rotación en Psiquiatría,PE,6
+ua,6,,"Rotación en Medicina Familiar, Comunitaria y Salud Pública",PE,6
+ua,6,,Trabajo Fin de Grado,TFG,6
+ual,1,1º,Anatomía y Fisiología Humana Básica (incluyendo Aparato Locomotor),OB,7.5
+ual,1,1º,Biología Celular y Embriología General,FB,6
+ual,1,1º,Bioquímica Médica Básica,FB,6
+ual,1,1º,Física Médica,OB,4.5
+ual,1,1º,Introducción a la Medicina,OB,3
+ual,1,1º,Soporte Vital Básico,OB,3
+ual,1,1º,"Morfología, Estructura y Función del Sistema Nervioso",FB,6
+ual,1,2º,"Morfología, Estructura y Función del Sistema Cardiocirculatorio",FB,6
+ual,1,2º,"Morfología, Estructura y Función del Sistema Digestivo",FB,6
+ual,1,2º,"Morfología, Estructura y Función del Sistema Respiratorio",FB,6
+ual,1,2º,Psicología Médica,OB,6
+ual,2,1º,"Morfología, Estructura y Función del Sistema Endocrino. Nutrición",FB,6
+ual,2,1º,"Morfología, Estructura y Función de la Sangre y el Sistema Inmune. Morfología, Estructura y Función del Sistema de la Piel",FB,6
+ual,2,1º,"Morfología, Estructura y Función del Sistema Excretor. Homeostasis. Morfología, Estructura y Función del Sistema Reproductor",FB,6
+ual,2,1º,Prácticas de Laboratorio Básicas en Medicina,FB,6
+ual,2,1º,Bioestadística Médica,OB,6
+ual,2,1º,Biología Molecular y Genética Médica,OB,4.5
+ual,2,2º,Investigación Clínica,OB,6
+ual,2,2º,Epidemiología,OB,4.5
+ual,2,2º,Farmacología General,OB,6
+ual,2,2º,Diagnóstico por la Imagen I,OB,3
+ual,2,2º,Patología General y Semiología,OB,6
+ual,3,1º,Anatomía Patológica,OB,6
+ual,3,1º,Microbiología y Parasitología Médicas,OB,6
+ual,3,1º,Cirugía General. Anestesia y Reanimación,OB,6
+ual,3,1º,Patología Infecciosa,OB,3
+ual,3,1º,Patología Digestiva,OB,6
+ual,3,1º,Diagnóstico por la Imagen II,OB,3
+ual,3,2º,Patología Cardiovascular,OB,9
+ual,3,2º,Patología Respiratoria,OB,6
+ual,3,2º,Hematología y Patología del Sistema Inmune,OB,6
+ual,3,2º,Patología Nefrourinaria y Genital,OB,6
+ual,4,1º,Farmacología Clínica y Dietoterapia,OB,6
+ual,4,1º,Patología del Sistema Endocrino y de la Nutrición,OB,6
+ual,4,1º,Psiquiatría,OB,6
+ual,4,1º,Patología del Sistema Nervioso,OB,6
+ual,4,1º,"Optativas (2 de: Gestión Sanitaria, Informática Médica, Medicina Tropical)",OP,6
+ual,4,1º,Patología del Aparato Locomotor,OB,9
+ual,4,2º,Otorrinolaringología,OB,4
+ual,4,2º,Rotatorio de Otorrinolaringología,PE,2
+ual,4,2º,Dermatología,OB,4
+ual,4,2º,Rotatorio de Dermatología,PE,2
+ual,4,2º,Oftalmología,OB,4
+ual,4,2º,Rotatorio de Oftalmología,PE,2
+ual,4,2º,Bioquímica Clínica,OB,3
+ual,5,1º,Medicina Física y Rehabilitación,OB,4.5
+ual,5,1º,Radioterapia,OB,3
+ual,5,1º,Medicina Preventiva y Salud Pública,OB,6
+ual,5,1º,Medicina Legal,OB,4.5
+ual,5,1º,Obstetricia y Ginecología,OB,9
+ual,5,1º,"Optativa (1 de: Adicciones, Investigación Científica en Medicina, Nutrición y Dietética)",OP,3
+ual,5,1º,Comunicación y Ética Médicas,OB,4.5
+ual,5,2º,Toxicología y Salud Ambiental,OB,4.5
+ual,5,2º,El Enfermo Pluripatológico. Geriatría,OB,6
+ual,5,2º,Urgencias y Emergencias,OB,3
+ual,5,2º,Pediatría,OB,9
+ual,5,2º,Oncología,OB,3
+ual,6,1º,Rotatorio de Pediatría,PE,6
+ual,6,1º,Rotatorio de Obstetricia y Ginecología,PE,6
+ual,6,1º,Rotatorio de Psiquiatría,PE,6
+ual,6,1º,Rotatorio de Medicina Interna I,PE,6
+ual,6,1º,Medicina de Familia y Cuidados Paliativos,OB,6
+ual,6,1º,Rotatorio de Cirugía,PE,6
+ual,6,2º,Rotatorio de Urgencias y Emergencias,PE,6
+ual,6,2º,Rotatorio de Medicina Interna II,PE,6
+ual,6,2º,Rotatorio de Medicina de Familia,PE,6
+ual,6,2º,Trabajo de Fin de Grado,TFG,6
+uab,1,1º,Anatomia humana: Generalitats i Aparell locomotor,FB,6
+uab,1,1º,Biologia Cel·lular,FB,6
+uab,1,1º,Bioquímica estructural i Biologia molecular,FB,6
+uab,1,1º,Introducció a les Ciències de la Salut,FB,5
+uab,1,1º,Pràctica Clínica Assistencial I,OB,3
+uab,1,2º,"Anatomia humana: Cardiovascular, Cap i Coll",FB,4
+uab,1,2º,Aprenentatge Integrat en Medicina I,OB,4
+uab,1,2º,Bioquímica metabòlica,FB,7
+uab,1,2º,Fisiologia general,FB,3
+uab,1,2º,Histologia,FB,3
+uab,1,Anual,Bioestadística,FB,6
+uab,1,Anual,Biofísica,FB,7
+uab,2,1º-2º,Optativa (o 3 crèdits reconeguts),OP,3
+uab,2,1º,Anatomia humana: Esplancnologia,FB,6
+uab,2,1º,Bioètica i comunicació,OB,3
+uab,2,1º,Fisiologia Mèdica I,FB,8
+uab,2,1º,Genètica Humana,OB,5
+uab,2,1º,Psicologia Mèdica,FB,6
+uab,2,2º,Anatomia humana: Neuroanatomia,FB,4
+uab,2,2º,Aprenentatge Integrat en Medicina II,OB,4
+uab,2,2º,Fisiologia mèdica II,FB,9
+uab,2,2º,Nutrició humana,OB,3
+uab,2,2º,Pràctica Clínica Assistencial II,OB,3
+uab,2,Anual,Estructura Microscòpica d'Aparells i Sistemes,FB,6
+uab,3,Anual,Patologia Estructural i Molecular,OB,8
+uab,3,Segons UD,Immunologia Mèdica,OB,4
+uab,3,Anual,Radiologia Clínica,OB,6
+uab,3,1º,Farmacologia General,OB,5
+uab,3,Anual,Microbiologia i Parasitologia Mèdiques,OB,8
+uab,3,Anual,Fisiopatologia i Semiologia Clínica,OB,11
+uab,3,Segons UD,Epidemiologia,OB,3
+uab,3,Anual,Bases de la Cirurgia Clínica,OB,5
+uab,3,2º,Aprenentatge Integrat en Medicina III,OB,4
+uab,3,2º,Medicina de Família i Comunitària,OB,3
+uab,3,Segons UD,Optativa,OP,3
+uab,4,Segons UD,Oncologia Mèdica,OB,4
+uab,4,Segons UD,MIC I: COT-Reumatologia,OB,5
+uab,4,Segons UD,MIC II: Cardio-Respiratori,OB,6
+uab,4,Segons UD,MIC III: Digestiu-Hematologia,OB,7
+uab,4,Segons UD,MIC IV: Nefro-Urologia,OB,3
+uab,4,Anual,Obstetrícia i Ginecologia,OB,8
+uab,4,Segons UD,Oftalmologia Clínica,OB,3
+uab,4,Segons UD,Otorrinolaringologia Clínica,OB,3
+uab,4,Anual,Pràctiques clíniques Oftalmologia-Otorrinolaringologia,OB,3
+uab,4,Anual,Pràctiques Mèdic-Quirúrgiques I,OB,7
+uab,4,Anual,Pràctiques Mèdic-Quirúrgiques II,OB,5
+uab,4,2º,Aprenentatge Integrat en Medicina IV,OB,3
+uab,4,Segons UD,Optativa,OP,3
+uab,5,Anual,Dermatologia Clínica,OB,4
+uab,5,2º,Farmacologia Clínica,OB,6
+uab,5,Segons UD,Medicina Legal i Toxicologia,OB,4
+uab,5,Anual,Medicina Preventiva i Salut Pública,OB,6
+uab,5,Segons UD,MIC VI: Infeccioses i Geriatria,OB,6
+uab,5,Segons UD,MIC V: Neuro i Endocrí,OB,7
+uab,5,Anual,Pediatria,OB,11
+uab,5,Anual,Pràctiques Mèdic-Quirúrgiques III,OB,6
+uab,5,Anual,Psiquiatria,OB,7
+uab,5,Segons UD,Optativa,OP,3
+uab,6,Anual,Aprenentatge Integrat de Medicina V i Bioinformàtica,OB,5
+uab,6,Anual,Pràctica Clínica - Atenció Primària,PE,5
+uab,6,Anual,Pràctica Clínica - Cirurgia General,PE,5
+uab,6,Anual,Pràctica Clínica - Especialitat Mèdica,PE,5
+uab,6,Anual,Pràctica Clínica - Especialitat Quirúrgica,PE,5
+uab,6,Anual,Pràctica Clínica en Ginecologia i Obstetrícia,PE,4
+uab,6,Anual,Pràctica Clínica en Pediatria,PE,4
+uab,6,Anual,Pràctica Clínica en Salut Mental,PE,4
+uab,6,Anual,Pràctica Clínica - Medicina Interna,PE,5
+uab,6,Anual,Simulació aplicada als coneixements mèdics i quirúrgics,PE,5
+uab,6,Anual,Treball de Final de Grau,TFG,7
+uab,6,Anual,Optatives (2),OP,6
+uam,1,Anual,Biología Celular y Genética Básica,FB,8
+uam,1,Anual,Anatomía I. Aparato Locomotor,FB,8
+uam,1,1º,Bioquímica General,FB,6
+uam,1,1º,Bioestadística,FB,6
+uam,1,1º,Anatomía del Desarrollo,FB,4
+uam,1,1º,Humanidades Médicas,OB,6
+uam,1,2º,Histología General,OB,3
+uam,1,2º,Fisiología General,FB,6
+uam,1,2º,Bioquímica y Biología Molecular,FB,6
+uam,1,2º,Actuaciones Básicas en Situaciones Urgentes,OB,4
+uam,1,2º,Optativa,OP,3
+uam,2,1º,Anatomía II. Esplacnología,OB,6
+uam,2,1º,Fisiología Médica I,FB,6
+uam,2,1º,Histología Especial,OB,4
+uam,2,1º,Psicología Médica,FB,6
+uam,2,1º,Inmunología,OB,5
+uam,2,1º,Optativa,OP,3
+uam,2,2º,Bioquímica y Biofísica Humana,OB,5
+uam,2,2º,Anatomía III. Órganos de los Sentidos y Neuroanatomía,OB,6
+uam,2,2º,Fisiología Médica II,FB,6
+uam,2,2º,Radiología e Imagen Médica,OB,5
+uam,2,2º,Introducción a la Práctica Clínica,OB,5
+uam,2,2º,Microbiología y Parasitología General,OB,3
+uam,3,Anual,Introducción a la Investigación Biomédica,OB,6
+uam,3,1º,Investigación Epidemiológica,OB,3
+uam,3,1º,Fisiopatología y Semiología I,OB,6
+uam,3,1º,Microbiología y Parasitología Especial,OB,6
+uam,3,1º,Farmacología I,OB,5
+uam,3,1º,Anatomía Patológica General,OB,3
+uam,3,1º,Optativa,OP,3
+uam,3,2º,Bioquímica Clínica y Genómica Funcional Humana,OB,4
+uam,3,2º,Bioética Clínica,OB,3
+uam,3,2º,Medicina Preventiva y Salud Pública,OB,6
+uam,3,2º,Fisiopatología y Semiología II,OB,5
+uam,3,2º,Farmacología II,OB,5
+uam,3,2º,Introducción a la Práctica Quirúrgica,OB,5
+uam,4,Anual,Otorrinolaringología,OB,5
+uam,4,Anual,Nefrología y Urología,OB,6
+uam,4,Anual,Obstetricia y Ginecología,OB,9
+uam,4,Anual,Pediatría y Neonatología,OB,9
+uam,4,Anual,Medicina y Cirugía Respiratorio,OB,6
+uam,4,Anual,Medicina y Cirugía Cardiocirculatorio,OB,6
+uam,4,Anual,Medicina y Cirugía Digestivo,OB,6
+uam,4,Anual,Medicina y Cirugía Sistema Nervioso,OB,6
+uam,4,Anual,Anatomía Patológica Especial I,OB,4
+uam,4,1º o 2º,Optativa,OP,3
+uam,5,Anual,Oncología,OB,3
+uam,5,Anual,Enfermedades Infecciosas,OB,4
+uam,5,Anual,Geriatría,OB,3
+uam,5,Anual,Medicina Legal y Toxicología,OB,3
+uam,5,Anual,Oftalmología,OB,4
+uam,5,Anual,Dermatología,OB,5
+uam,5,Anual,Medicina y Cirugía del Aparato Locomotor,OB,6
+uam,5,Anual,Endocrinología y Nutrición,OB,7
+uam,5,Anual,Anatomía Patológica Especial II,OB,3
+uam,5,Anual,Psiquiatría,OB,6
+uam,5,Anual,Hematología,OB,4
+uam,5,Anual,Radiología Clínica,OB,3
+uam,5,1º,Investigación Clínica Experimental,OB,3
+uam,5,1º,Medicina de Familia,OB,3
+uam,5,2º,Farmacología Clínica,OB,3
+uam,6,Anual,Rotatorio Clínico,PE,54
+uam,6,2º,Trabajo Fin de Grado,TFG,6
+ub,1,2º,Anatomia Funcional i Embriologia de l'Aparell Locomotor,FB,12
+ub,1,1º,"Bioestadística Bàsica, Epidemiologia i Introducció a la Recerca",FB,6
+ub,1,1º,Biofísica Mèdica General,FB,6
+ub,1,1º,Biologia Cel·lular,FB,6
+ub,1,2º,Biologia Cel·lular i del Desenvolupament,FB,6
+ub,1,2º,Biologia Molecular,FB,6
+ub,1,1º,Bioquímica Bàsica,FB,6
+ub,1,2º,Histologia Humana,OB,4
+ub,1,1º,"Introducció a la Salut, Antropologia, Demografia. Història de la Medicina",OB,5
+ub,1,2º,Optatives,OP,3
+ub,2,1º,Anatomia i Embriologia d'Òrgans i Sistemes,FB,12
+ub,2,2º,Bioquímica i Biofísica de Sistemes,FB,9
+ub,2,1º,Fisiologia Mèdica I,FB,9
+ub,2,2º,Fisiologia Mèdica II,FB,9
+ub,2,2º,Immunologia Mèdica,OB,6
+ub,2,1º,Optatives,OP,3
+ub,2,1º,Organografia Microscòpica Humana,OB,6
+ub,2,2º,Psicologia Mèdica,FB,6
+ub,3,1º-2º,Anatomia Patològica General,OB,6
+ub,3,1º-2º,Farmacologia General,OB,6
+ub,3,1º-2º,"Fonaments de Cirurgia, Anestesiologia i Reanimació",OB,6
+ub,3,1º-2º,Genètica Mèdica,OB,6
+ub,3,1º-2º,Microbiologia Mèdica,OB,6
+ub,3,1º-2º,Radiologia i Medicina Física General,OB,6
+ub,3,1º-2º,Semiologia General i Propedèutica Clínica. Ètica Mèdica,OB,16
+ub,3,1º-2º,Optatives,OP,8
+ub,4,1º-2º,Malalties de l'Aparell Cardiocirculatori,OB,9
+ub,4,1º-2º,Malalties de l'Aparell Digestiu,OB,9
+ub,4,1º-2º,Malalties de l'Aparell Respiratori,OB,9
+ub,4,1º-2º,Malalties de la Sang,OB,5
+ub,4,1º-2º,Malalties del Sistema Endocrí i Nutrició,OB,6
+ub,4,1º-2º,Malalties del Sistema Nerviós,OB,9
+ub,4,1º-2º,Otorinolaringologia,OB,5
+ub,4,1º-2º,Psiquiatria,OB,6
+ub,4,2º,Optatives,OP,2
+ub,5,1º-2º,Dermatologia,OB,5
+ub,5,1º-2º,Malalties del Sistema Renal i Aparell Genital Masculí,OB,9
+ub,5,1º-2º,Malalties Infeccioses,OB,9
+ub,5,1º-2º,"Medicina Preventiva, Salut Pública i Estadística Aplicada",OB,9
+ub,5,2º,Medicina Legal i Laboral. Toxicologia,OB,5
+ub,5,2º,Oncologia Mèdica i Radioteràpica,OB,6
+ub,5,1º-2º,Oftalmologia,OB,5
+ub,5,1º,Optatives,OP,2
+ub,5,1º-2º,Ortopèdia i Reumatologia,OB,9
+ub,6,2º,Farmacologia Clínica,OB,4
+ub,6,1º,Obstetrícia i Ginecologia,OB,12
+ub,6,1º-2º,Pediatria,OB,15
+ub,6,2º,Pràctiques Tutelades. Estada Clínica Hospitalària,PE,12
+ub,6,2º,Pràctiques Tutelades. Medicina Familiar i Comunitària,PE,12
+ub,6,2º,Treball Fi de Grau,TFG,6
+unican,1,,Anatomía y Embriología Humana I,FB,6
+unican,1,,Anatomía y Embriología Humana II,OB,6
+unican,1,,Biología Celular y Tisular,FB,6
+unican,1,,Fisiología General e Inmunología,FB,6
+unican,1,,Biología Molecular de la Célula,OB,6
+unican,1,,Bioquímica Estructural y Metabólica,FB,6
+unican,1,,"Introducción a la Medicina: Aspectos Históricos, Culturales y Sociales de la Salud y de la Enfermedad",FB,6
+unican,1,,Informática Básica y Valores Personales y Profesionales,FB,6
+unican,1,,Inglés I,FB,6
+unican,1,,Física Médica y Protección Radiológica,FB,6
+unican,2,,Anatomía y Embriología Humana III,OB,6
+unican,2,,Neuroanatomía Humana,OB,6
+unican,2,,Histología de Órganos,OB,6
+unican,2,,Fisiología Humana I,OB,6
+unican,2,,Fisiología Humana II,OB,6
+unican,2,,Fisiología Humana III,OB,6
+unican,2,,Genética Molecular y Humana,OB,6
+unican,2,,Inglés Médico,OB,6
+unican,2,,Bioestadística Aplicada y Uso de Software Científico,FB,6
+unican,2,,Psicología Médica,FB,6
+unican,3,,Epidemiología. Fundamentos del Método Científico,OB,6
+unican,3,,Semiología y Fisiopatología 1,OB,6
+unican,3,,Fisiopatología 2,OB,6
+unican,3,,Cirugía I,OB,6
+unican,3,,Oftalmología,OB,6
+unican,3,,Farmacología Fundamental,OB,6
+unican,3,,Radiología y Medicina Física General,OB,6
+unican,3,,Anatomía Patológica General y Especial,OB,6
+unican,3,,Microbiología y Parasitología Médicas,OB,6
+unican,3,,Optativa,OP,6
+unican,4,,Patología Médica I,OB,6
+unican,4,,Patología Médica II,OB,6
+unican,4,,Patología Médica III,OB,6
+unican,4,,Patología Médica IV,OB,6
+unican,4,,Cirugía II,OB,6
+unican,4,,Práctica Médico-Quirúrgica I,OB,6
+unican,4,,Otorrinolaringología,OB,6
+unican,4,,Dermatología Médico-Quirúrgica,OB,6
+unican,4,,Pediatría,OB,6
+unican,4,,Obstetricia y Ginecología,OB,6
+unican,5,,Medicina Preventiva y Salud Pública,OB,6
+unican,5,,"Medicina Legal, Bioética y Toxicología Forense",OB,6
+unican,5,,Psiquiatría General,OB,6
+unican,5,,Patología Médica V,OB,6
+unican,5,,Patología Médica VI,OB,6
+unican,5,,Cirugía III,OB,6
+unican,5,,Práctica Médico-Quirúrgica II,OB,6
+unican,5,,Farmacología Clínica. Nutrición,OB,6
+unican,5,,Radiología Clínica,OB,6
+unican,5,,El Laboratorio en el Diagnóstico Clínico,OB,6
+unican,6,,Clínica Médica,PE,24
+unican,6,,Clínica Quirúrgica,PE,12
+unican,6,,Clínica Pediátrica,PE,6
+unican,6,,Clínica Obstétrica,PE,6
+unican,6,,Clínica Psiquiátrica,PE,6
+unican,6,,Trabajo Fin de Grado,TFG,6
+uclm,1,,Anatomía Humana I,FB,6
+uclm,1,,Fundamentos de la Investigación Médica,FB,6
+uclm,1,,Historia de la Medicina y Documentación,FB,6
+uclm,1,,Biología,FB,6
+uclm,1,,Bioquímica I,FB,6
+uclm,1,,Fisiología,FB,6
+uclm,1,,Histología,FB,6
+uclm,1,,Psicología,FB,6
+uclm,1,,Bioestadística: Fundamentos y Aplicación en Medicina,FB,6
+uclm,1,,Anatomía Humana II,OB,6
+uclm,2,,"Morfología, Estructura y Función Integradas del Cuerpo Humano",OB,33
+uclm,2,,Bioquímica II e Inmunología,OB,9
+uclm,2,,Comunicación Asistencial y Bioética,FB,6
+uclm,2,,Genética Humana,OB,6
+uclm,2,,Microbiología,OB,6
+uclm,3,,Semiología,OB,12
+uclm,3,,"Farmacología, Anestesia y Nutrición",OB,12
+uclm,3,,Cirugía General,OB,6
+uclm,3,,Radiología y Terapéutica Física,OB,9
+uclm,3,,Anatomía Patológica,OB,9
+uclm,3,,Psiquiatría,OB,6
+uclm,3,,Optativa,OP,6
+uclm,4,,Patologías del Sistema Cardiovascular,OB,9
+uclm,4,,Patologías del Sistema Respiratorio,OB,6
+uclm,4,,Hematología y Oncología,OB,9
+uclm,4,,Patologías del Sistema Nervioso,OB,6
+uclm,4,,Patologías del Sistema Digestivo,OB,6
+uclm,4,,Enfermedades por Agentes Externos: Infecciones e Intoxicaciones,OB,6
+uclm,4,,Dermatología,OB,6
+uclm,4,,Oftalmología,OB,6
+uclm,4,,Otorrinolaringología,OB,6
+uclm,5,,Patologías Nefrourológicas,OB,9
+uclm,5,,Patologías del Aparato Locomotor y Urgencias,OB,9
+uclm,5,,Patologías del Sistema Endocrino y del Metabolismo,OB,6
+uclm,5,,Medicina Preventiva y Salud Pública,OB,6
+uclm,5,,Obstetricia y Ginecología,OB,9
+uclm,5,,Pediatría y Neonatología,OB,9
+uclm,5,,Geriatría (incl. 3 ECTS de prácticas tuteladas),OB,6
+uclm,5,,Medicina de Familia (incl. 3 ECTS de prácticas tuteladas),OB,6
+uclm,6,,"Rotatorio Clínico (Clínica Médica, Quirúrgica, Pediátrica, Obstétrica, Psiquiátrica y Medicina de Familia)",PE,42
+uclm,6,,Medicina Legal y Salud Laboral,OB,6
+uclm,6,,Estancia Clínica a Elección,PE,6
+uclm,6,,Trabajo Fin de Grado,TFG,6
+ucm,1,,Anatomía Humana I,FB,12
+ucm,1,,Bases Celulares de la Genética Humana,FB,3
+ucm,1,,Bioestadística,FB,6
+ucm,1,,"Biología Celular, Embriología General e Histología Humana",FB,6
+ucm,1,,Bioquímica Básica,FB,6
+ucm,1,,Física Médica,FB,6
+ucm,1,,Fisiología Básica,FB,6
+ucm,1,,Humanidades Médicas,FB,6
+ucm,1,,Inmunología,FB,6
+ucm,2,,Anatomía Humana II,FB,9
+ucm,2,,Bases Psicológicas de los Estados de Salud y Enfermedad,FB,6
+ucm,2,,Bioquímica Humana,FB,6
+ucm,2,,Epidemiología,OB,3
+ucm,2,,Fisiología Humana,FB,12
+ucm,2,,Genética Molecular Humana,OB,6
+ucm,2,,Microbiología General,OB,6
+ucm,2,,Organografía Microscópica Humana,OB,9
+ucm,3,,Anatomía Patológica,OB,9
+ucm,3,,Bases Legales de la Medicina,OB,3
+ucm,3,,Farmacología,OB,9
+ucm,3,,Fisiopatología y Propedéutica Quirúrgica,OB,6
+ucm,3,,Medicina Física y Rehabilitación,OB,6
+ucm,3,,Microbiología Médica,OB,3
+ucm,3,,Patología General,OB,12
+ucm,3,,Radiología,OB,6
+ucm,4,,"Anestesiología, Reanimación y Terapéutica del Dolor",OB,3
+ucm,4,,Obstetricia y Ginecología,OB,12
+ucm,4,,Oftalmología,OB,6
+ucm,4,,Otorrinolaringología,OB,6
+ucm,4,,Patología Médica I,OB,12
+ucm,4,,Patología Quirúrgica I,OB,9
+ucm,4,,Práctica Clínica I,PE,9
+ucm,5,,Dermatología,OB,6
+ucm,5,,Medicina Legal y Toxicología,OB,6
+ucm,5,,Patología Médica II,OB,12
+ucm,5,,Patología Quirúrgica II,OB,9
+ucm,5,,Pediatría,OB,12
+ucm,5,,Práctica Clínica II,PE,9
+ucm,5,,Psiquiatría,OB,6
+ucm,6,,Farmacología Clínica,OB,3
+ucm,6,,Medicina Preventiva y Salud Pública,OB,6
+ucm,6,,Patología Médica III,OB,6
+ucm,6,,Traumatología y Cirugía Ortopédica,OB,6
+ucm,6,,Práctica Clínica III,PE,36
+ucm,6,,Trabajo Fin de Grado,TFG,6
+ucm,any,,Optativas (asignaturas de 3 ECTS),OP,12
+uca,1,,Anatomía Humana I: Morfología General y Miembros,FB,6
+uca,1,,Biología Celular,FB,6
+uca,1,,Bioquímica Humana Básica,FB,6
+uca,1,,Fisiología Celular y Tisular,FB,6
+uca,1,,Anatomía Humana II: Tronco y Esplacnología,FB,9
+uca,1,,Física Médica,OB,3
+uca,1,,Embriología e Histología General Humanas,FB,6
+uca,1,,Bioquímica Médica,FB,6
+uca,1,,Comunicación Médica,OB,3
+uca,1,,Bioestadística,FB,6
+uca,2,,Anatomía Humana III: Cabeza y Sistema Nervioso Central,FB,6
+uca,2,,Histología Especial Humana I,FB,6
+uca,2,,Inmunología,OB,3
+uca,2,,Histología Especial Humana II,OB,3
+uca,2,,Fisiología Humana I,FB,6
+uca,2,,Fisiología Humana II,FB,6
+uca,2,,Historia de la Medicina,OB,3
+uca,2,,Genética Clínica,OB,3
+uca,2,,Introducción a la Medicina Interna y Propedéutica Clínica,FB,12
+uca,2,,Psicología Médica,FB,6
+uca,2,,Fundamentos de Cirugía,OB,3
+uca,3,,Medicina Preventiva y Salud Pública,OB,6
+uca,3,,Epidemiología,OB,3
+uca,3,,Bioética en Medicina,OB,3
+uca,3,,"Enfermedades Infecciosas, Autoinmunes y Sistema Articular",OB,6
+uca,3,,Radiología,OB,9
+uca,3,,Farmacología,OB,9
+uca,3,,Anestesia y Reanimación,OB,3
+uca,3,,Anatomía Patológica General,OB,3
+uca,3,,Microbiología y Parasitología Médica,OB,9
+uca,3,,Medicina Física y Rehabilitación,OB,3
+uca,3,,Bioquímica Clínica,OB,3
+uca,4,,Medicina y Cirugía Cardiocirculatorio,OB,6
+uca,4,,Medicina y Cirugía Respiratorio,OB,6
+uca,4,,Medicina y Cirugía Digestivo,OB,6
+uca,4,,Medicina y Cirugía Sistema Endocrino. Metabolismo y Nutrición,OB,6
+uca,4,,Nefrología y Urología,OB,6
+uca,4,,Medicina y Cirugía Sistema Nervioso,OB,6
+uca,4,,Traumatología,OB,6
+uca,4,,Oftalmología,OB,6
+uca,4,,Otorrinolaringología,OB,6
+uca,4,,Dermatología,OB,6
+uca,5,,Metodología de Investigación Biomédica,OB,6
+uca,5,,Medicina Legal y Forense,OB,6
+uca,5,,Oncología Médica. Geriatría. Cuidados Paliativos,OB,6
+uca,5,,Hematología,OB,3
+uca,5,,Medicina Familiar y Comunitaria. Medicina de Urgencias,OB,3
+uca,5,,Obstetricia y Ginecología,OB,9
+uca,5,,Pediatría,OB,9
+uca,5,,Psiquiatría,OB,6
+uca,5,,Anatomía Patológica Especial,OB,6
+uca,5,,Farmacología Clínica,OB,3
+uca,6,,Rotatorio Clínico,PE,54
+uca,6,,Trabajo Fin de Grado y Máster,TFG,6
+uca,1-5,,"Optativas (asignaturas de 3 ECTS, Módulo VII)",OP,12
+uco,1,1º,Anatomía Humana: Organogénesis y Aparato Locomotor,FB,9
+uco,1,1º,Biología Celular y Citogenética Humana,FB,6
+uco,1,1º,Bioquímica General Médica,FB,6
+uco,1,1º,Fisiología General,FB,6
+uco,1,1º,Introducción a la Patología: Parámetros Vitales y Soporte Vital Básico,OB,3
+uco,1,2º,Anatomía Humana: Cabeza y Esplacnología,FB,7
+uco,1,2º,Histología Médica I,FB,6
+uco,1,2º,Fisiología Especial,FB,8
+uco,1,2º,Documentación e Inteligencia Artificial en Medicina. Historia de la Medicina,FB,6
+uco,1,2º,Bases Moleculares en Biomedicina,OB,3
+uco,2,1º,Anatomía Humana: Estesiología y Sistema Nervioso,FB,6
+uco,2,1º,Histología Médica II,FB,6
+uco,2,1º,Psicología Médica,FB,6
+uco,2,1º,Neurofisiología,OB,3
+uco,2,1º,Inmunología,OB,3
+uco,2,1º,Radiología General,OB,3
+uco,2,1º,Procedimientos Quirúrgicos,OB,3
+uco,2,2º,"Patología General, Semiología Clínica y Medicina de Familia y Comunitaria",FB,9
+uco,2,2º,Comunicación Asistencial,FB,6
+uco,2,2º,Farmacología Humana,FB,9
+uco,2,2º,Inmunología Clínica,OB,3
+uco,2,2º,Bioquímica Clínica y Análisis Clínicos,OB,3
+uco,3,1º,Anatomía Patológica,OB,6
+uco,3,1º,Introducción a la Investigación y Bioestadística,OB,4.5
+uco,3,1º,Microbiología Médica y Enfermedades Infecciosas I,OB,7
+uco,3,1º,Aplicación Clínica de las Ciencias Básicas Médicas,OB,4.5
+uco,3,1º,Enfermedades Endocrino-Metabólicas,OB,6
+uco,3,1º,Nutrición,OB,3
+uco,3,2º,Obstetricia y Ginecología,OB,9
+uco,3,2º,Enfermedades del Aparato Digestivo,OB,7
+uco,3,2º,Epidemiología General,OB,3
+uco,3,2º,Hematología Médica,OB,4
+uco,3,2º,Microbiología Médica y Enfermedades Infecciosas II,OB,6
+uco,4,1º,Pediatría,OB,9
+uco,4,1º,Enfermedades Cardiovasculares,OB,6
+uco,4,1º,Enfermedades del Aparato Respiratorio,OB,6
+uco,4,1º,Otorrinolaringología,OB,6
+uco,4,1º,Oncología Médica,OB,3
+uco,4,2º,Enfermedades del Aparato Locomotor,OB,9
+uco,4,2º,Enfermedades del Sistema Nervioso,OB,6
+uco,4,2º,Psiquiatría,OB,6
+uco,4,2º,Oftalmología,OB,6
+uco,4,2º,Rehabilitación,OB,3
+uco,5,1º,Medicina Preventiva y Salud Pública,OB,9
+uco,5,1º,Enfermedades del Aparato Nefrourinario,OB,6
+uco,5,1º,Dermatología Médico-Quirúrgica y Venereología,OB,6
+uco,5,1º,Integración Clínica: Enfermo Pluripatológico,OB,6
+uco,5,1º,Radiología Clínica,OB,6
+uco,5,1º,Optativa 1,OP,3
+uco,5,1º,Optativa 2,OP,3
+uco,5,2º,Medicina Legal y Ética,OB,9
+uco,5,2º,"Urgencias, Emergencias e Intoxicaciones",OB,6
+uco,5,2º,Investigación en Biomedicina,OB,3
+uco,5,2º,Proyecto Trabajo Fin de Grado,OB,3
+uco,6,Anual,Rotatorio Medicina,PE,12
+uco,6,Anual,Rotatorio Medicina de Familia y Urgencias,PE,9
+uco,6,Anual,Rotatorio Cirugía,PE,9
+uco,6,Anual,Rotatorio Especialidades,PE,9
+uco,6,Anual,Rotatorio Ginecología y Obstetricia,PE,6
+uco,6,Anual,Rotatorio Pediatría,PE,6
+uco,6,Anual,Rotatorio Psiquiatría,PE,3
+uco,6,Anual,Trabajo Fin de Grado,TFG,6
+uex,1,1º,Anatomía Médica I,FB,6
+uex,1,1º,Citología e Histología Humana,FB,6
+uex,1,1º,Bioquímica,FB,6
+uex,1,1º,Física Médica,FB,6
+uex,1,1º,"Historia de la Medicina, Bioética y Deontología",FB,6
+uex,1,2º,Anatomía Médica II,FB,6
+uex,1,2º,Bioquímica Humana e Inmunología General,FB,6
+uex,1,2º,Fisiología Humana Básica,FB,6
+uex,1,2º,Bioestadística,FB,6
+uex,1,2º,Optativa (Informática Médica / Inglés para Ciencias de la Salud),OP,6
+uex,2,1º,Anatomía Médica III,FB,6
+uex,2,1º,Organografía Microscópica y Fisiología Médica I,FB,6
+uex,2,1º,Microbiología Médica General,OB,6
+uex,2,1º,Psicología Médica,FB,6
+uex,2,1º,Epidemiología y Fundamentos de la Investigación en Medicina,OB,6
+uex,2,2º,Anatomía Médica IV,FB,6
+uex,2,2º,Biología Molecular,FB,6
+uex,2,2º,Fisiología Médica II,FB,6
+uex,2,2º,Citogenética y Embriología General,FB,6
+uex,2,2º,Patología General,OB,6
+uex,3,1º,"Alergia, Inmunopatología y Reumatología",OB,6
+uex,3,1º,Diagnóstico por Imagen I,OB,6
+uex,3,1º,Farmacología General,OB,6
+uex,3,1º,Anatomía Patológica Humana,OB,6
+uex,3,1º,Patología Quirúrgica General,OB,6
+uex,3,2º,Oftalmología,OB,6
+uex,3,2º,Otorrinolaringología,OB,6
+uex,3,2º,Cirugía Ortopédica y Maxilofacial,OB,6
+uex,3,2º,Endocrinología y Nutrición,OB,6
+uex,3,2º,Dermatología,OB,6
+uex,4,1º,Comunicación Clínica y Medicina Paliativa,OB,6
+uex,4,1º,Obstetricia y Ginecología,OB,6
+uex,4,1º,Neumología,OB,6
+uex,4,1º,Medicina y Cirugía Cardiovascular,OB,6
+uex,4,1º,Medicina y Cirugía Digestiva,OB,6
+uex,4,2º,Enfermedades Infecciosas y Microbiología Clínica,OB,6
+uex,4,2º,Hematología,OB,6
+uex,4,2º,Oncología Médica y Radioterápica y Anatomía Patológica Tumoral,OB,6
+uex,4,2º,Neurología,OB,6
+uex,4,2º,Nefrología y Urología,OB,6
+uex,5,1º,Medicina Familiar y Comunitaria,OB,6
+uex,5,1º,Geriatría y Medicina Física y Rehabilitación,OB,6
+uex,5,1º,Farmacología Clínica y Terapéutica Médica,OB,6
+uex,5,1º,Psiquiatría,OB,6
+uex,5,1º,Pediatría I,OB,6
+uex,5,2º,Diagnóstico por Imagen II,OB,6
+uex,5,2º,"Pediatría II, Cirugía Pediátrica y Enfermedades Raras",OB,6
+uex,5,2º,"Urgencias, Emergencias y Toxicología",OB,6
+uex,5,2º,Medicina Legal y Forense,OB,6
+uex,5,2º,Medicina Preventiva y Salud Pública,OB,6
+uex,6,1º-2º,"Prácticas Tuteladas (sistema rotatorio, 7 asignaturas)",PE,54
+uex,6,2º,Trabajo de Fin de Grado,TFG,6
+udg,1,,"Introducció a l'estudi de la medicina: Biologia cel·lular, bioquímica, homeòstasi i regulació i genètica",FB,15
+udg,1,,Introducció a l'estudi de la medicina: L'aparell locomotor (Estructura i funció del cos humà 1),FB,15
+udg,1,,"Introducció a l'estudi de la medicina: Aparells cardiovascular, respiratori i digestiu (Estructura i funció del cos humà 2)",FB,15
+udg,1,,Programa d'habilitats 1: Recerca i anàlisi crítica de la informació (Estadística i metodologia de la recerca clínica),FB,10
+udg,1,,"Reconeixement acadèmic (la guia indica 6, el total quadra amb 5)",OP,5
+udg,2,,Introducció a l'estudi de la medicina: L'aparell urogenital (Estructura i funció del cos humà 3),FB,10
+udg,2,,Introducció a l'estudi de la medicina: Sistema nerviós i òrgans dels sentits (Estructura i funció del cos humà 4),FB,12
+udg,2,,"Interacció amb agressors de l'entorn 1 (Farmacologia, terapèutica, microbiologia i anàlisis clíniques)",OB,12
+udg,2,,"Interacció amb agressors de l'entorn 2 (Radiologia, anatomia patològica i cirurgia)",OB,15
+udg,2,,"Programa d'habilitats 2: Comunicació, història clínica i anamnesi",OB,6
+udg,2,,Optativa,OP,5
+udg,3,,Programa d'habilitats 3: Exploració física i fonaments d'ètica mèdica,OB,6
+udg,3,,Sistemes 1: El sistema cardiovascular (Cardiologia i cirurgia cardiovascular),OB,15
+udg,3,,Sistemes 2: La sang i els limfàtics (Hematologia i introducció a l'oncologia),OB,10
+udg,3,,"Sistemes 3: L'aigua, els electròlits i l'excreció (Nefrologia i urologia)",OB,12
+udg,3,,"Sistemes 4: Digestió, metabolisme i desintoxicació (Gastroenterologia i cirurgia digestiva)",OB,12
+udg,3,,Optativa,OP,5
+udg,4,,Programa d'habilitats 4: Epidemiologia clínica i gestió sanitària,OB,6
+udg,4,,Sistemes 5: La respiració i l'aparell respiratori (Pneumologia i cirurgia toràcica),OB,12
+udg,4,,Els sistemes de comunicació en el cos humà (Endocrinologia),OB,12
+udg,4,,La reproducció humana i les hormones sexuals (Ginecologia i obstetrícia),OB,15
+udg,4,,La conducta humana (Psiquiatria i psicologia mèdica),OB,10
+udg,4,,Optativa,OP,5
+udg,5,,Programa d'habilitats 5: Bioètica i medicina legal,OB,7
+udg,5,,Òrgans dels sentits: la pell (Dermatologia),OB,6
+udg,5,,Òrgans dels sentits: Oftalmologia,OB,5.5
+udg,5,,Òrgans dels sentits: Otorinolaringologia,OB,6.5
+udg,5,,El cervell i les seves funcions (Neurologia i neurocirurgia),OB,15
+udg,5,,El sistema de suport i moviment: l'aparell locomotor (Traumatologia i ortopèdia),OB,15
+udg,5,,Optativa,OP,5
+udg,6,,La continuïtat vital 1: Del naixement a l'edat adulta (Pediatria),OB,15
+udg,6,,La continuïtat vital 2: Envelliment (Geriatria),OB,6
+udg,6,,Integració: abordatge de les urgències (Urgències),OB,6
+udg,6,,"Integració: abordatge biològic, psicològic, social i cultural (Medicina de família)",OB,10
+udg,6,,Treball final de grau,TFG,18
+udg,6,,Optativa,OP,5
+ugr,1,1º,Anatomía Humana I,FB,6
+ugr,1,1º,Bioestadística,FB,6
+ugr,1,1º,Bioquímica General,FB,6
+ugr,1,1º,"Citología, Herencia y Desarrollo Humano",FB,6
+ugr,1,1º,Fisiología General,FB,6
+ugr,1,2º,Anatomía Humana II,FB,8
+ugr,1,2º,Biología Molecular,OB,3
+ugr,1,2º,Bioquímica Médica,OB,9
+ugr,1,2º,Histología Médica de las Células Madre y los Tejidos Corporales,FB,6
+ugr,1,2º,Inmunología,OB,4
+ugr,2,1º,Anatomía Humana III,FB,9
+ugr,2,1º,Fisiología Médica I,OB,6
+ugr,2,1º,Histología Médica de los Aparatos y Sistemas Corporales,FB,6
+ugr,2,1º,Psicología Médica,FB,6
+ugr,2,2º,Bases de la Medicina Interna I,OB,9
+ugr,2,2º,Comunicación Médica,OB,6
+ugr,2,2º,Fisiología Médica II,OB,6
+ugr,2,2º,Fundamentos de la Investigación en Salud y Bioética,OB,6
+ugr,3,1º,Anatomía Patológica General y Especial,OB,8
+ugr,3,1º,Bases de la Medicina Interna II,OB,6
+ugr,3,1º,Farmacología Básica,OB,7
+ugr,3,1º,Fundamentos de la Cirugía y la Anestesiología,OB,6
+ugr,3,2º,Historia de la Medicina,OB,6
+ugr,3,2º,Microbiología y Parasitología Médica,OB,9
+ugr,3,2º,Patología del Aparato Digestivo y Pared Abdominal,OB,9
+ugr,3,2º,Psiquiatría,OB,6
+ugr,4,1º,Oftalmología,OB,6
+ugr,4,1º,Otorrinolaringología,OB,6
+ugr,4,1º,Patología Cardiocirculatoria,OB,6
+ugr,4,1º,"Patología Respiratoria, Oncología y Hematología",OB,9
+ugr,4,2º,Dermatología Médico Quirúrgica y Venerología,OB,6
+ugr,4,2º,Patología del Aparato Urinario y Enfermedades Infecciosas,OB,8
+ugr,4,2º,Patología del Sistema Nervioso y Geriatría,OB,6
+ugr,4,2º,Radiología y Medicina Física,OB,10
+ugr,5,1º,Medicina Preventiva y Salud Pública,OB,9
+ugr,5,1º,Obstetricia. Genética Clínica,OB,5
+ugr,5,1º,"Patologías del Sistema Endocrino, Metabolismo y Nutrición. Medicina de Familia",OB,7
+ugr,5,1º,Pediatría y Cirugía Pediátrica I,OB,6
+ugr,5,2º,Farmacología Clínica,OB,3
+ugr,5,2º,Ginecología,OB,6
+ugr,5,2º,Medicina Legal y Forense y Toxicología,OB,9
+ugr,5,2º,Patología Osteo-Articular y Enfermedades Sistémicas,OB,7
+ugr,5,2º,Pediatría y Cirugía Pediátrica II,OB,5
+ugr,6,Anual,Prácticas Tuteladas: Atención Primaria,PE,11
+ugr,6,Anual,Prácticas Tuteladas: Obstetricia y Ginecología,PE,5
+ugr,6,Anual,Prácticas Tuteladas: Patología Médica,PE,12
+ugr,6,Anual,Prácticas Tuteladas: Patología Quirúrgica,PE,11
+ugr,6,Anual,Prácticas Tuteladas: Pediatría,PE,5
+ugr,6,Anual,Prácticas Tuteladas: Psiquiatría en la Práctica Clínica,PE,5
+ugr,6,Anual,Prácticas Tuteladas: Urgencias Hospitalarias,PE,5
+ugr,6,2º,Trabajo Fin de Grado,TFG,6
+ugr,2-5,,Optativas (15 ECTS en total),OP,15
+uib,1,1º,Bioquímica y Biología Molecular I,FB,6
+uib,1,2º,Bioquímica y Biología Molecular II,FB,6
+uib,1,1º,Física Médica,FB,6
+uib,1,1º,Introducción a la Investigación en Salud y Bioestadística,FB,6
+uib,1,1º,Introducción e Historia de la Medicina,OB,3
+uib,1,2º,Documentación y Recursos Informáticos,OB,3
+uib,1,2º,Biología Celular,FB,6
+uib,1,1º,Anatomía y Embriología: General y Aparato Locomotor,FB,9
+uib,1,2º,Fisiología General,FB,3
+uib,1,2º,Histología General,OB,3
+uib,1,2º,Gestión Clínica (antes Inmersión al Sistema Sanitario I),OB,3
+uib,1,2º,English for Health and Behavioural Sciences,OB,6
+uib,2,1º,Fisiología: Aparatos y Sistemas I,FB,9
+uib,2,2º,Fisiología: Aparatos y Sistemas II,FB,9
+uib,2,1º,Histología: Aparatos y Sistemas,OB,6
+uib,2,1º,Genética Humana,OB,6
+uib,2,1º,Anatomía y Embriología: Aparatos y Sistemas I,FB,6
+uib,2,2º,Anatomía y Embriología: Aparatos y Sistemas II,FB,6
+uib,2,2º,Psicología Médica,FB,6
+uib,2,1º,Ética Médica,OB,3
+uib,2,2º,Comunicación y Salud,OB,3
+uib,2,2º,Microbiología,OB,6
+uib,3,1º,Bases de la Cirugía,OB,3
+uib,3,1º,Diagnóstico por Imagen,OB,6
+uib,3,1º,Anatomía Patológica,OB,6
+uib,3,1º,Farmacología General,OB,6
+uib,3,1º,Inmunología,OB,3
+uib,3,2º,Bioquímica Clínica,OB,3
+uib,3,1º,Patología General I,OB,6
+uib,3,2º,Patología General II,OB,6
+uib,3,2º,Oftalmología,OB,6
+uib,3,2º,Otorrinolaringología,OB,6
+uib,3,2º,Patología Médico-Quirúrgica: Aparato Locomotor,OB,9
+uib,4,1º,Patología Médico-Quirúrgica: Sistema Cardiovascular,OB,6
+uib,4,1º,Patología Médico-Quirúrgica: Sistema Respiratorio,OB,6
+uib,4,1º,Patología Médico-Quirúrgica: Aparato Digestivo,OB,6
+uib,4,2º,Patologías Infecciosas,OB,6
+uib,4,1º,Obstetricia y Ginecología,OB,9
+uib,4,2º,Dermatología,OB,3
+uib,4,1º-2º,Optativas,OP,6
+uib,4,2º,Patología Médico-Quirúrgica: Aparato Urinario,OB,6
+uib,4,2º,Patología Médico-Quirúrgica: Sistema Nervioso,OB,6
+uib,4,2º,"Endocrinología, Nutrición y Dietoterapia",OB,6
+uib,5,1º,Medicina Familiar y Comunitaria,OB,6
+uib,5,1º,Pediatría,OB,9
+uib,5,1º,Psiquiatría,OB,6
+uib,5,1º,Hematología,OB,3
+uib,5,2º,Farmacología Clínica,OB,6
+uib,5,2º,Medicina Legal y Toxicología,OB,3
+uib,5,2º,Medicina Preventiva y Salud Pública. Epidemiología,OB,6
+uib,5,2º,Geriatría,OB,3
+uib,5,1º,Cuidados Paliativos,OB,3
+uib,5,1º-2º,Optativas,OP,9
+uib,5,2º,Oncología y Radioterapia,OB,3
+uib,5,2º,Anestesia y Reanimación. Urgencias y Emergencias,OB,3
+uib,6,Anual,Práctica Clínica: Pediatría,PE,6
+uib,6,Anual,Práctica Clínica: Obstetricia y Ginecología,PE,6
+uib,6,Anual,Práctica Clínica: Psiquiatría,PE,6
+uib,6,Anual,Práctica Clínica: Cirugía y sus Especialidades,PE,12
+uib,6,Anual,Práctica Clínica: Medicina Interna y sus Especialidades,PE,12
+uib,6,Anual,Práctica Clínica: Medicina Familiar y Comunitaria,PE,12
+uib,6,2º,Trabajo de Fin de Grado,TFG,6
+uji,1,1º,Biología,FB,6
+uji,1,1º,Bioquímica,FB,6
+uji,1,1º,"Anatomía General, Embriología e Histología General",FB,6
+uji,1,1º,Fisiología General,FB,6
+uji,1,1º,Inglés para Médicos,FB,6
+uji,1,2º,Recursos Informáticos y Documentación,FB,6
+uji,1,2º,Genética Humana,OB,6
+uji,1,2º,Aparato Locomotor,OB,9
+uji,1,2º,Aparato Digestivo y Nutrición,OB,9
+uji,2,1º,Bioética y Profesionalismo,FB,6
+uji,2,1º,Psicología Médica,FB,6
+uji,2,1º,Sistema Nervioso y Órganos de los Sentidos,OB,9
+uji,2,1º,Aparato Genitourinario y Renal,OB,7
+uji,2,2º,Bioestadística,FB,6
+uji,2,2º,Antropología y Evolución. Historia de la Medicina,FB,6
+uji,2,2º,Aparato Cardio-Respiratorio,OB,7
+uji,2,2º,Endocrinología y Sistema Inmune,OB,7
+uji,2,Anual,Prácticas en Centro de Salud. Integración Básica/Clínica,OB,6
+uji,3,Anual,Epidemiología y Salud Pública,OB,8
+uji,3,1º,Patología General,OB,7
+uji,3,1º,Microbiología y Parasitología General,OB,6
+uji,3,1º,Anatomía Patológica,OB,7
+uji,3,1º,Estudio por la Imagen,OB,7
+uji,3,2º,Medicina Familiar y Comunitaria,OB,6
+uji,3,2º,Farmacología General,OB,7
+uji,3,2º,Introducción a la Cirugía,OB,6
+uji,3,2º,Optativa 1,OP,6
+uji,4,Anual,Enfermedades Cardiocirculatorias y Nefrourológicas,OB,11
+uji,4,Anual,Prácticas de Clínica Médico-Quirúrgica I,OB,6
+uji,4,1º,Enfermedades Respiratorias y Otorrinolaringología,OB,8
+uji,4,1º,Enfermedades Infecciosas,OB,6
+uji,4,1º,Toxicología y Medicina Legal,OB,6
+uji,4,2º,Enfermedades Hematológicas y Oncológicas,OB,9
+uji,4,2º,Medicina Obstétrica y Ginecológica,OB,8
+uji,4,2º,Optativa 2,OP,6
+uji,5,Anual,Prácticas de Clínica Médico-Quirúrgica II,OB,6
+uji,5,1º,"Medicina de Urgencias, Emergencias y Enfermo Crítico",OB,6
+uji,5,1º,Enfermedades del Aparato Digestivo y Endocrinológicas,OB,10
+uji,5,1º,Psiquiatría,OB,6
+uji,5,1º,Optativa 3,OP,6
+uji,5,2º,Enfermedades Neurológicas y Oftalmológicas,OB,9
+uji,5,2º,"Enfermedades del Aparato Locomotor, del Sistema Inmune y de la Piel",OB,9
+uji,5,2º,Pediatría y Neonatología,OB,8
+uji,6,Anual,Prácticas Integradas de Clínica Médica y Médico-Quirúrgica,PE,27
+uji,6,Anual,Prácticas Integradas de Pediatría Hospitalaria y Atención Primaria,PE,9
+uji,6,1º,Prácticas Integradas de Clínica Obstétrica y Ginecológica,PE,6
+uji,6,1º,Prácticas Integradas de Atención Primaria,PE,6
+uji,6,2º,Prácticas en Unidades de Salud Mental y Psiquiatría,PE,6
+uji,6,Anual,Trabajo de Final de Grado,TFG,6
+ujaen,1,1º,Anatomía y Embriología Humana I,FB,6
+ujaen,1,1º,Biología Celular,FB,6
+ujaen,1,1º,Bioquímica General,FB,6
+ujaen,1,1º,Genética Humana,FB,6
+ujaen,1,1º,"Historia de la Medicina, Documentación",FB,6
+ujaen,1,2º,Anatomía y Embriología Humana II,FB,9
+ujaen,1,2º,Histología Humana,FB,9
+ujaen,1,2º,Fisiología General,FB,6
+ujaen,1,2º,Bioestadística,FB,6
+ujaen,2,1º,Anatomía y Embriología Humana III,FB,6
+ujaen,2,1º,Fisiología Médica I,FB,6
+ujaen,2,1º,Bioética y Medicina Legal,FB,6
+ujaen,2,1º,Comunicación Asistencial,FB,6
+ujaen,2,1º,Psicología,FB,6
+ujaen,2,2º,Fisiología Médica II,OB,6
+ujaen,2,2º,Nuevas Tecnologías de la Información Clínica y Biomédica,OB,3
+ujaen,2,2º,Bioquímica Médica,OB,6
+ujaen,2,2º,Microbiología,OB,3
+ujaen,2,2º,Nutrición y Terapia Nutricional,OB,3
+ujaen,2,2º,Inmunología,OB,6
+ujaen,2,2º,Parasitología,OB,3
+ujaen,3,1º,Epidemiología y Método Científico,OB,6
+ujaen,3,1º,Inmunología Clínica,OB,3
+ujaen,3,1º,Anatomía Patológica,OB,6
+ujaen,3,1º,Farmacología,OB,9
+ujaen,3,1º,Microbiología Médica,OB,6
+ujaen,3,2º,Bases de la Medicina Interna y Patología Infecciosa,OB,6
+ujaen,3,2º,Oftalmología,OB,6
+ujaen,3,2º,Otorrinolaringología,OB,6
+ujaen,3,2º,Bases de la Cirugía,OB,6
+ujaen,3,2º,Diagnóstico por Imagen y Electrofisiología,OB,6
+ujaen,4,1º,Patología Nefrourológica,OB,6
+ujaen,4,1º,Oncología,OB,3
+ujaen,4,1º,Ginecología y Obstetricia,OB,9
+ujaen,4,1º,Patologías Pediátricas,OB,9
+ujaen,4,1º,Optativa 1,OP,3
+ujaen,4,2º,Patología del Aparato Digestivo,OB,6
+ujaen,4,2º,Patología del Aparato Cardiocirculatorio,OB,6
+ujaen,4,2º,Patología del Aparato Respiratorio,OB,6
+ujaen,4,2º,Patología del Sistema Nervioso,OB,6
+ujaen,4,2º,Psiquiatría,OB,6
+ujaen,5,1º,Patología del Sistema Endocrino y la Nutrición,OB,6
+ujaen,5,1º,Medicina Forense y Toxicología,OB,6
+ujaen,5,1º,Patología de la Sangre y Hematología,OB,6
+ujaen,5,1º,"Cuidados Críticos, Anestesiología y Reanimación",OB,6
+ujaen,5,1º,Optativas 2 y 3,OP,6
+ujaen,5,2º,Medicina Preventiva y Salud Pública,OB,6
+ujaen,5,2º,Medicina Familiar y Comunitaria,OB,6
+ujaen,5,2º,Patología del Aparato Locomotor,OB,9
+ujaen,5,2º,Patología de la Piel,OB,6
+ujaen,5,2º,Principios de Medicina Física y Rehabilitación,OB,3
+ujaen,6,Anual,Rotatorio Clínico: Especialidades Médicas,PE,12
+ujaen,6,Anual,Rotatorio Clínico: Atención Primaria,PE,11
+ujaen,6,Anual,Rotatorio Clínico: Especialidades Quirúrgicas,PE,11
+ujaen,6,Anual,Rotatorio Clínico: Ginecología y Obstetricia,PE,5
+ujaen,6,Anual,Rotatorio Clínico: Pediatría,PE,4
+ujaen,6,Anual,Rotatorio Clínico: Psiquiatría,PE,3
+ujaen,6,Anual,"Rotatorio Clínico: Medicina Crítica, Emergencias y Urgencias",PE,8
+ujaen,6,2º,Trabajo Fin de Grado,TFG,6
+ull,1,1º,Citología e Histología General,FB,6
+ull,1,1º,Anatomía Humana I,FB,6
+ull,1,1º,Biofísica y Física Médica,OB,4.5
+ull,1,1º,Bioestadística,FB,6
+ull,1,1º,Embriología Humana,OB,4.5
+ull,1,1º,Historia de la Medicina,OB,3
+ull,1,2º,Anatomía Humana II,FB,6
+ull,1,2º,Histología Especial,OB,7.5
+ull,1,2º,Bioquímica y Biología Molecular,FB,9
+ull,1,2º,Fisiología Humana I,FB,4.5
+ull,1,2º,Ética Médica,OB,3
+ull,2,1º,Genética Humana,OB,4.5
+ull,2,1º,Fisiología Humana II,FB,6
+ull,2,1º,Psicología Médica y Psicopatología,FB,4.5
+ull,2,1º,Anatomía Humana III,OB,6
+ull,2,1º,Inmunología,OB,4.5
+ull,2,1º,Optativa,OP,4.5
+ull,2,2º,Fisiología Humana III,FB,9
+ull,2,2º,"Medicina Legal, Forense y Toxicología",OB,7.5
+ull,2,2º,Microbiología Médica,OB,6
+ull,2,2º,Anatomía Topográfica,FB,3
+ull,2,2º,Optativa,OP,4.5
+ull,3,1º,Patología General y Propedéutica I,OB,6
+ull,3,1º,Anatomía Patológica I,OB,4.5
+ull,3,1º,Farmacología y Anestesia,OB,9
+ull,3,1º,Epidemiología,OB,3
+ull,3,1º,Investigación Biomédica,OB,3
+ull,3,1º,Optativa,OP,4.5
+ull,3,2º,Patología General y Propedéutica II,OB,6
+ull,3,2º,Anatomía Patológica II,OB,6
+ull,3,2º,Diagnóstico por Imagen y Medicina Física,OB,9
+ull,3,2º,Aspectos Generales de la Patología Quirúrgica,OB,4.5
+ull,3,2º,Optativa,OP,4.5
+ull,4,Anual,Patología del Aparato Digestivo,OB,7.5
+ull,4,Anual,Patología de la Sangre y la Hematopoyesis,OB,4.5
+ull,4,Anual,Obstetricia y Ginecología,OB,9
+ull,4,Anual,Otorrinolaringología,OB,4.5
+ull,4,Anual,Dermatología,OB,4.5
+ull,4,Anual,Patología del Aparato Respiratorio y Cirugía Torácica,OB,6
+ull,4,Anual,Patología del Sistema Nervioso,OB,7.5
+ull,4,Anual,Patología Renal y de las Vías Urinarias,OB,6
+ull,4,Anual,Endocrino y Nutrición,OB,6
+ull,4,Anual,Oftalmología,OB,4.5
+ull,5,Anual,Patología del Aparato Cardiocirculatorio,OB,7.5
+ull,5,Anual,Patología del Aparato Locomotor,OB,7.5
+ull,5,Anual,Pediatría,OB,9
+ull,5,Anual,Psiquiatría,OB,6
+ull,5,Anual,"Medicina Familiar, Comunicación, Geriatría y Cuidados Paliativos",OB,6
+ull,5,Anual,Enfermedades Infecciosas,OB,6
+ull,5,Anual,Terapéutica y Farmacología Clínica,OB,6
+ull,5,Anual,Oncología,OB,6
+ull,5,Anual,Medicina Preventiva y Salud Pública,OB,6
+ull,6,Anual,Rotatorio de Especialidades Quirúrgicas,PE,12
+ull,6,Anual,Rotatorio de Especialidades Médicas,PE,12
+ull,6,Anual,Rotatorio de Atención Primaria,PE,6
+ull,6,Anual,Rotatorio de Pediatría,PE,6
+ull,6,Anual,Rotatorio de Psiquiatría,PE,6
+ull,6,Anual,Rotatorio de Ginecología y Obstetricia,PE,6
+ull,6,Anual,Rotatorio de Urgencias,PE,6
+ull,6,Anual,Trabajo Fin de Grado,TFG,6
+ule,1,1º,Biología celular y embriología,FB,6
+ule,1,1º,Bioquímica y biología molecular básica,FB,6
+ule,1,1º,Psicología médica,FB,6
+ule,1,1º,Bioestadística,FB,6
+ule,1,1º,Historia de la medicina y documentación,OB,3
+ule,1,1º,Física médica,OB,3
+ule,1,2º,Bioquímica y biología molecular avanzada,FB,6
+ule,1,2º,"Morfología, estructura y función del sistema musculoesquelético",FB,7.5
+ule,1,2º,"Morfología, estructura y función del sistema respiratorio",FB,6
+ule,1,2º,"Morfología, estructura y función de la sangre y de los sistemas linfoide y tegumentario",OB,4.5
+ule,1,2º,"Morfología, estructura y función del sistema cardiovascular",FB,6
+ule,2,1º,"Morfología, estructura y función del sistema nervioso y de los órganos de los sentidos",FB,6
+ule,2,1º,"Morfología, estructura y función del sistema digestivo",FB,6
+ule,2,1º,"Morfología, estructura y función del sistema endocrino y metabólico",FB,6
+ule,2,1º,"Morfología, estructura y función de los sistemas nefrourinario y reproductor",FB,6
+ule,2,1º,Genética y genómica humanas,FB,6
+ule,2,2º,Microbiología y parasitología,FB,6
+ule,2,2º,Bases de la medicina general y semiología,FB,6
+ule,2,2º,Anatomía patológica,OB,6
+ule,2,2º,Epidemiología,OB,6
+ule,2,2º,Bioética y comunicación asistencial,OB,3
+ule,2,2º,Inmunología básica,OB,3
+ule,3,1º,Diagnóstico por imagen y medicina nuclear,OB,9
+ule,3,1º,Farmacología general,OB,6
+ule,3,1º,Salud laboral y ambiental,OB,6
+ule,3,1º,Fundamentos de cirugía,OB,3
+ule,3,1º,Metodología de la investigación en medicina,OB,3
+ule,3,1º,Optativa I,OP,3
+ule,3,2º,Patología digestiva,OB,7.5
+ule,3,2º,Patología cardiovascular,OB,6
+ule,3,2º,Patología respiratoria,OB,6
+ule,3,2º,"Patologías infecciosas, parasitarias y zoonóticas",OB,4.5
+ule,3,2º,Toxicología,OB,3
+ule,3,2º,Optativa II,OP,3
+ule,4,1º,Traumatología y cirugía ortopédica,OB,6
+ule,4,1º,Patología del sistema nervioso,OB,6
+ule,4,1º,Patología nefrourinaria,OB,6
+ule,4,1º,Dermatología,OB,3
+ule,4,1º,Patología reumatológica y del sistema inmunológico,OB,3
+ule,4,1º,Gestión sanitaria,OB,3
+ule,4,1º,Oftalmología,OB,3
+ule,4,2º,Patología del sistema endocrino y de la nutrición,OB,6
+ule,4,2º,Ginecología y obstetricia,OB,6
+ule,4,2º,Hematología y hemoterapia,OB,4.5
+ule,4,2º,Oncología médica y radioterapia,OB,4.5
+ule,4,2º,Alergología e inmunopatología,OB,3
+ule,4,2º,Farmacología clínica,OB,3
+ule,4,2º,Otorrinolaringología,OB,3
+ule,5,1º,Pediatría,OB,9
+ule,5,1º,Medicina preventiva y salud pública,OB,6
+ule,5,1º,Psiquiatría,OB,6
+ule,5,1º,Medicina de urgencias y emergencias,OB,3
+ule,5,1º,Medicina física y rehabilitación,OB,3
+ule,5,1º,Optativa III,OP,3
+ule,5,2º,Medicina familiar y comunitaria,OB,9
+ule,5,2º,Medicina intensiva. Anestesia y reanimación,OB,6
+ule,5,2º,Geriatría,OB,3
+ule,5,2º,Medicina legal y forense,OB,3
+ule,5,2º,Medicina paliativa,OB,3
+ule,5,2º,Atención a la enfermedad crónica,OB,3
+ule,5,2º,Optativa IV,OP,3
+ule,6,Anual,Prácticas externas: rotatorio por especialidades médicas y quirúrgicas,PE,30
+ule,6,Anual,Prácticas externas en medicina de familia,PE,10.5
+ule,6,Anual,Prácticas externas en pediatría,PE,6
+ule,6,Anual,Prácticas externas en obstetricia y ginecología,PE,4.5
+ule,6,Anual,Prácticas externas en psiquiatría,PE,3
+ule,6,Anual,Trabajo Fin de Grado,TFG,6
+udl,1,,Bioquímica,FB,6
+udl,1,,Estructura i Funció Cel·lular,FB,9
+udl,1,,Bioestadística,FB,6
+udl,1,,Recursos Informàtics i Documentació Mèdica,OB,4
+udl,1,,Història de la Medicina,OB,3
+udl,1,,Histologia General,FB,4
+udl,1,,Genètica Humana,FB,6
+udl,1,,Metabolisme i Endocrinologia Metabòlica,FB,6
+udl,1,,Aparell Locomotor,FB,10
+udl,1,,Optativitat (Anglès Científic / Medicina Narrativa / IA en Medicina...),OP,6
+udl,2,,Organografia Microscòpica,FB,6
+udl,2,,Sistema Immune,FB,6
+udl,2,,Aparell Cardiorespiratori,FB,8
+udl,2,,Aparell Digestiu i Genitourinari,FB,10
+udl,2,,Neurobiologia,FB,9
+udl,2,,Comunicació Mèdica,OB,4
+udl,2,,Examen Clínic,OB,8
+udl,2,,Microbiologia,OB,6
+udl,2,,Optativitat (Cèl·lules Mare / Competència Emocional...),OP,3
+udl,3,Anual,Psicologia,FB,6
+udl,3,Anual,Anatomia Patològica General,OB,6
+udl,3,Anual,Farmacologia,OB,6
+udl,3,Anual,Cardiologia i Cirurgia Vascular,OB,5
+udl,3,Anual,Introducció a la Cirurgia i Anestèsia,OB,5
+udl,3,Anual,Endocrinologia,OB,4
+udl,3,Anual,Oftalmologia,OB,4
+udl,3,Anual,Hematologia,OB,4
+udl,3,Anual,Otorrinolaringologia,OB,4
+udl,3,Anual,Bioètica,OB,3
+udl,3,Anual,Pràctiques Assistencials I,OB,7
+udl,3,Anual,Optativitat (Telemedicina / Medicina de Precisió...),OP,6
+udl,4,Anual,Malalties de l'Aparell Digestiu,OB,6
+udl,4,Anual,Medicina Preventiva i Epidemiologia,OB,6
+udl,4,Anual,Nefrologia i Urologia,OB,4
+udl,4,Anual,Neurologia,OB,6
+udl,4,Anual,Oncologia,OB,5
+udl,4,Anual,Psiquiatria,OB,6
+udl,4,Anual,Farmacoteràpia,OB,5
+udl,4,Anual,Anatomia Patològica Mèdica,OB,4
+udl,4,Anual,Radiologia,OB,3
+udl,4,Anual,Pràctiques Assistencials II,OB,9
+udl,4,Anual,Optativitat (Medicina d'Urgències / Salut Pública Global / Geriatria...),OP,6
+udl,5,Anual,Neumologia i Cirurgia Toràcica,OB,5
+udl,5,Anual,Dermatologia,OB,4
+udl,5,Anual,Traumatologia i Reumatologia,OB,7
+udl,5,Anual,Malalties Infeccioses,OB,9
+udl,5,Anual,Medicina Familiar i Comunitària,OB,3
+udl,5,Anual,Medicina Legal i Toxicologia,OB,6
+udl,5,Anual,Ginecologia i Obstetrícia,OB,7
+udl,5,Anual,Pediatria,OB,7
+udl,5,Anual,Radiologia Clínica,OB,3
+udl,5,Anual,Pràctiques Assistencials III,OB,9
+udl,6,Anual,Clínica Mèdica,PE,18
+udl,6,Anual,Clínica Quirúrgica,PE,12
+udl,6,Anual,Clínica Pediàtrica,PE,6
+udl,6,Anual,Clínica Ginecològica i Obstètrica,PE,6
+udl,6,Anual,Medicina de Família,PE,6
+udl,6,Anual,Clínica Psiquiàtrica,PE,6
+udl,6,Anual,Treball de Fi de Grau,TFG,6
+umh,1,,Anatomía Humana I,FB,6
+umh,1,,Anatomía Humana II,FB,6
+umh,1,,Biología Celular,FB,6
+umh,1,,Histología,FB,6
+umh,1,,Bioquímica I,FB,6
+umh,1,,Bioquímica II,FB,6
+umh,1,,Fisiología Celular y Biofísica,FB,6
+umh,1,,Fisiología Médica I,FB,6
+umh,1,,"Historia de la Medicina, Documentación y Antropología Médica",FB,6
+umh,1,,Psicología,FB,6
+umh,2,,Anatomía Humana III,FB,6
+umh,2,,Neurobiología,FB,6
+umh,2,,Farmacología Básica,FB,4.5
+umh,2,,Fisiología Médica II,FB,4.5
+umh,2,,Genética,FB,4.5
+umh,2,,[Materia] Ámbitos de actuación médica,OB,4.5
+umh,2,,[Materia] Anatomía patológica,OB,4.5
+umh,2,,[Materia] Bases éticas y legales,OB,4.5
+umh,2,,"[Materia] Fundamentos de la patología: patología general, cirugía y microbiología",OB,12
+umh,2,,[Materia] Investigación en salud,OB,4.5
+umh,2,,"[Materia] Patología médica y quirúrgica I: dermatología, hematología, inmunología y alergología",OB,4.5
+umh,3,,Farmacología Clínica,FB,6
+umh,3,,[Materia] Ámbitos de actuación médica,OB,4.5
+umh,3,,[Materia] Diagnóstico por la imagen,OB,6
+umh,3,,"[Materia] Fundamentos de la patología: patología general, cirugía y microbiología",OB,6
+umh,3,,[Materia] Investigación en salud,OB,4.5
+umh,3,,[Materia] Materno-infantil,OB,9
+umh,3,,[Materia] Patología médica y quirúrgica I,OB,4.5
+umh,3,,"[Materia] Patología médica y quirúrgica II: infecciosas, cardiovascular y respiratorio",OB,10.5
+umh,3,,"[Materia] Patología médica y quirúrgica III: sistema nervioso, oftalmología y ORL",OB,9
+umh,4,,[Materia] Ámbitos de actuación médica,OB,6
+umh,4,,[Materia] Bases éticas y legales,OB,6
+umh,4,,[Materia] Patología médica y quirúrgica II,OB,6
+umh,4,,[Materia] Patología médica y quirúrgica III,OB,6
+umh,4,,"[Materia] Patología médica y quirúrgica IV: digestivo, nefrourinario y endocrino",OB,7.5
+umh,4,,"[Materia] Patología médica y quirúrgica V: locomotor, medicina familiar, urgencias y emergencias",OB,7.5
+umh,4,,[Materia] Psiquiatría,OB,6
+umh,4,,Optatividad de centro (oferta 30 ECTS),OP,15
+umh,5,,[Materia] Ámbitos de actuación médica,OB,6
+umh,5,,[Materia] Anatomía patológica,OB,4.5
+umh,5,,[Materia] Investigación en salud,OB,4.5
+umh,5,,[Materia] Materno-infantil,OB,9
+umh,5,,[Materia] Patología médica y quirúrgica I,OB,4.5
+umh,5,,[Materia] Patología médica y quirúrgica IV,OB,12
+umh,5,,[Materia] Patología médica y quirúrgica V,OB,10.5
+umh,5,,Optatividad de centro (oferta 18 ECTS),OP,9
+umh,6,,Prácticas tuteladas,PE,54
+umh,6,,Trabajo de fin de grado,TFG,6
+umu,1,Anual,Anatomía del Aparato Locomotor,FB,9
+umu,1,Anual,Bioquímica Humana,FB,9
+umu,1,1º,Historia de la Medicina y Documentación Médica,FB,6
+umu,1,1º,Bioestadística,FB,6
+umu,1,2º,Biología Celular e Histología Humanas,FB,6
+umu,1,2º,Fisiología Humana I,FB,6
+umu,1,2º,Biología Molecular Humana,FB,6
+umu,1,2º,Epidemiología General y Demografía Sanitaria,FB,6
+umu,1,1º,Ética Médica,OB,3
+umu,1,1º,Introducción a la Práctica Clínica,OB,3
+umu,2,1º,Fisiología Humana II,FB,6
+umu,2,1º,Genética Humana,FB,6
+umu,2,1º,Esplacnología,FB,6
+umu,2,1º,Psicología Médica,FB,6
+umu,2,2º,Inmunología,FB,6
+umu,2,2º,Neuroanatomía,FB,6
+umu,2,Anual,Organografía Microscópica y Embriología General Humana,OB,9
+umu,2,1º,Microbiología I,OB,3
+umu,2,2º,Farmacología I,OB,3
+umu,2,2º,Microbiología II,OB,4.5
+umu,2,2º,Fisiología Humana III,OB,4.5
+umu,3,1º,Farmacología II,OB,3
+umu,3,1º,Fisiopatología y Semiología Clínica I,OB,6
+umu,3,1º,Oftalmología,OB,4.5
+umu,3,1º,Fundamentos de Cirugía,OB,6
+umu,3,1º,Anatomía Patológica General,OB,4.5
+umu,3,1º,Radiología General y Medicina Física,OB,6
+umu,3,2º,Farmacología III,OB,4.5
+umu,3,2º,Habilidades Médico-Quirúrgicas,OB,4.5
+umu,3,2º,Anatomía Patológica Especial,OB,4.5
+umu,3,2º,Fisiopatología y Semiología Clínica II,OB,6
+umu,3,2º,Otorrinolaringología,OB,4.5
+umu,3,2º,Psiquiatría,OB,6
+umu,4,1º,Aparato Digestivo,OB,6
+umu,4,1º,Pediatría I,OB,6
+umu,4,1º,Aparato Respiratorio,OB,6
+umu,4,1º,Aparato Cardiovascular,OB,6
+umu,4,1º,Obstetricia,OB,6
+umu,4,2º,Sistema Urinario,OB,6
+umu,4,2º,Pediatría II,OB,6
+umu,4,2º,Traumatología,OB,6
+umu,4,2º,Sistema Nervioso,OB,6
+umu,4,2º,Ginecología,OB,6
+umu,5,1º,Medicina Preventiva y Salud Pública,OB,6
+umu,5,1º,Medicina Basada en la Evidencia,OB,4.5
+umu,5,1º,Reumatología/Alergología,OB,4.5
+umu,5,1º,Enfermedades Infecciosas,OB,6
+umu,5,1º,Endocrinología,OB,6
+umu,5,2º,Hematología,OB,4.5
+umu,5,2º,Oncología Médica y Cuidados Paliativos,OB,3
+umu,5,2º,Dermatología,OB,4.5
+umu,5,2º,Medicina de Familia,OB,3
+umu,5,2º,Radiología Clínica,OB,6
+umu,5,2º,Medicina Legal y Forense,OB,6
+umu,5,1º-2º,Optativas (2 de 3 ECTS),OP,6
+umu,6,Anual,Rotatorio de Medicina y Urgencias,PE,9
+umu,6,Anual,Rotatorio de Cirugía I,PE,9
+umu,6,Anual,Rotatorio Materno-Infantil,PE,12
+umu,6,2º,Rotatorio de Cirugía II,PE,6
+umu,6,2º,Rotatorio de Medicina II,PE,9
+umu,6,2º,Rotatorio de Psiquiatría,PE,3
+umu,6,Anual,Rotatorio de Medicina Familiar y Comunitaria,PE,6
+umu,6,2º,Trabajo Fin de Grado,TFG,6
+uma,1,1º,Bioquímica y Biología Molecular 1,FB,6
+uma,1,1º,Embriología Especial y Anatomía Humana General,OB,2.5
+uma,1,1º,Anatomía Humana 1: Aparato Locomotor,FB,6
+uma,1,1º,"Citología, Herencia y Desarrollo Humano",OB,5
+uma,1,1º,Fisiología General,FB,7
+uma,1,1º,Introducción a la Medicina,OB,3.5
+uma,1,2º,Bioquímica y Biología Molecular 2,FB,7
+uma,1,2º,Anatomía Humana 2: Cabeza y Cuello y Esplacnología,FB,6
+uma,1,2º,Histología Humana 1,FB,6
+uma,1,2º,Fisiología Humana 1,FB,8
+uma,1,2º,Medicina Social y Participativa,OB,3
+uma,2,1º,Anatomía Humana 3: Sentidos y Sistema Nervioso Central,OB,5
+uma,2,1º,Histología Humana 2,FB,6
+uma,2,1º,Fisiología Humana 2,OB,4
+uma,2,1º,Inmunología,OB,3
+uma,2,1º,Ética y Profesionalismo Médico,OB,3
+uma,2,1º,Psicología Médica,FB,6
+uma,2,1º,Optativa 1,OP,3
+uma,2,2º,"Historia de la Medicina, Investigación y Documentación Científica",FB,6
+uma,2,2º,Metodología en Investigación 1. Bioestadística,FB,6
+uma,2,2º,Patología General,OB,9
+uma,2,2º,Anatomía Patológica General,OB,3
+uma,2,2º,Bioquímica y Genética Clínicas,FB,6
+uma,3,1º,Metodología en Investigación 2. Epidemiología,OB,3
+uma,3,1º,Gestión Sanitaria,OB,2
+uma,3,1º,Farmacología General,FB,6
+uma,3,1º,Radiología,FB,6
+uma,3,1º,Microbiología y Enfermedades Infecciosas,OB,10
+uma,3,1º,Optativa 2,OP,3
+uma,3,2º,Enfermedades del Sistema Respiratorio y Alergia,OB,6
+uma,3,2º,Enfermedades del Aparato Nefrourinario,OB,5
+uma,3,2º,Inmunopatología y Reumatología,OB,5.5
+uma,3,2º,Bases Quirúrgicas Diagnósticas y Terapéuticas,FB,6
+uma,3,2º,Anatomía Patológica Especial,OB,4
+uma,3,2º,"Anestesiología, Reanimación y Terapéutica del Dolor",OB,3.5
+uma,4,1º,Enfermedades del Sistema Circulatorio,OB,7.5
+uma,4,1º,Enfermedades del Aparato Digestivo,OB,7.5
+uma,4,1º,Psiquiatría,OB,6
+uma,4,1º,Atención al Paciente Mayor y Medicina Paliativa,OB,4
+uma,4,1º,Genómica y Medicina de Precisión,OB,5
+uma,4,2º,Investigación en Medicina,OB,3
+uma,4,2º,Oftalmología,OB,5
+uma,4,2º,Dermatología,OB,5
+uma,4,2º,Otorrinolaringología y Patología Cérvico-Facial,OB,5
+uma,4,2º,Obstetricia y Ginecología,OB,9
+uma,4,2º,Patología Crítica,OB,3
+uma,5,1º,Medicina Legal y Toxicología Forense,OB,6
+uma,5,1º,Enfermedades del Aparato Locomotor,OB,7
+uma,5,1º,"Oncología Médica, Hematología y Oncología Radioterápica",OB,8.5
+uma,5,1º,Enfermedades del Sistema Nervioso,OB,6
+uma,5,1º,Optativa 3,OP,3
+uma,5,2º,Medicina Preventiva y Salud Pública,OB,9
+uma,5,2º,Endocrinología y Nutrición,OB,7.5
+uma,5,2º,Pediatría,OB,9
+uma,5,2º,Farmacología Clínica,OB,4
+uma,6,Anual,Rotatorio Medicina,PE,14
+uma,6,Anual,"Rotatorio Cirugía, Patología del Aparato Locomotor y Urología",PE,12
+uma,6,1º,Rotatorio Pediatría,PE,7
+uma,6,1º,Rotatorio Obstetricia y Ginecología,PE,4
+uma,6,1º,"Rotatorio Dermatología, Oftalmología y Otorrinolaringología",PE,3
+uma,6,2º,Rotatorio Radiología y Medicina Física,PE,3
+uma,6,2º,Rotatorio Psiquiatría,PE,3
+uma,6,2º,Rotatorio Atención Primaria y Urgencias,PE,8
+uma,6,Anual,Trabajo Fin de Grado,TFG,6
+uniovi,1,Anual,Bioquímica,FB,12
+uniovi,1,1º,Biología celular e histología humana,FB,6
+uniovi,1,1º,Anatomía general y embriología,FB,6
+uniovi,1,1º,Epidemiología,FB,6
+uniovi,1,1º,"Historia e introducción a las Ciencias de la Salud: bioética, comunicación y método científico",FB,6
+uniovi,1,2º,Fisiología I,FB,6
+uniovi,1,2º,Anatomía del aparato locomotor,FB,6
+uniovi,1,2º,Psicología médica,FB,6
+uniovi,1,2º,Genética,FB,6
+uniovi,2,Anual,Anatomía del sistema nervioso y órganos de los sentidos,OB,9
+uniovi,2,1º,Esplacnología,OB,6
+uniovi,2,1º,Organografía microscópica humana,OB,6
+uniovi,2,1º,Fisiología II,FB,6
+uniovi,2,1º,"Introducción a la clínica: medicina física, radiología general y laboratorio clínico",FB,6
+uniovi,2,1º,Optativa 1,OP,3
+uniovi,2,2º,Anatomía topográfica,OB,3
+uniovi,2,2º,Fisiología III,FB,6
+uniovi,2,2º,Inmunología,OB,6
+uniovi,2,2º,Microbiología médica,FB,6
+uniovi,2,2º,Optativa 2,OP,3
+uniovi,3,Anual,Farmacología fundamental,FB,9
+uniovi,3,Anual,Fisiopatología y propedéutica clínica,OB,12
+uniovi,3,1º,Anatomía patológica,OB,6
+uniovi,3,1º,Radiodiagnóstico,OB,6
+uniovi,3,1º,Optativas 3 y 4,OP,6
+uniovi,3,2º,Fundamentos de cirugía,OB,6
+uniovi,3,2º,Patología tumoral,OB,6
+uniovi,3,2º,Patología del aparato respiratorio,OB,6
+uniovi,3,2º,Optativa 5,OP,3
+uniovi,4,1º,"Patología del aparato digestivo, del sistema endocrino, metabólico y de la nutrición",OB,9
+uniovi,4,1º,Patología cardiocirculatoria,OB,6
+uniovi,4,1º,Patología nefrourológica,OB,6
+uniovi,4,1º,Obstetricia y ginecología,OB,6
+uniovi,4,1º,Optativa 6,OP,3
+uniovi,4,2º,Patología del sistema nervioso,OB,6
+uniovi,4,2º,Dermatología,OB,6
+uniovi,4,2º,Psiquiatría,OB,6
+uniovi,4,2º,Pediatría,OB,9
+uniovi,4,2º,Optativa 7,OP,3
+uniovi,5,1º,Oftalmología,OB,5
+uniovi,5,1º,Otorrinolaringología y cirugía maxilofacial,OB,7
+uniovi,5,1º,Urgencias y medicina paliativa,OB,6
+uniovi,5,1º,Farmacología clínica,OB,6
+uniovi,5,1º,Medicina legal,OB,6
+uniovi,5,2º,Patología del aparato locomotor y reumatología,OB,9
+uniovi,5,2º,Patología infecciosa,OB,6
+uniovi,5,2º,Patología de la sangre y órganos hematopoyéticos,OB,3
+uniovi,5,2º,Taller de práctica clínica,OB,3
+uniovi,5,2º,Medicina preventiva y salud pública,OB,6
+uniovi,5,2º,Medicina familiar y comunitaria,OB,3
+uniovi,6,Anual,Prácticas Académicas Externas,PE,51
+uniovi,6,Anual,Trabajo Fin de Grado,TFG,9
+ehu,1,1º,Anatomía Humana I,OB,6
+ehu,1,1º,Biología Celular,FB,6
+ehu,1,1º,Bioquímica Básica,FB,6
+ehu,1,1º,"Documentación, Historia, Teoría y Método de la Medicina",FB,6
+ehu,1,1º,Psicología,FB,6
+ehu,1,2º,Anatomía Humana II,OB,6
+ehu,1,2º,Bioestadística,FB,6
+ehu,1,2º,Bioquímica Médica,OB,6
+ehu,1,2º,Fisiología,FB,6
+ehu,1,2º,Genética y Biología del Desarrollo,FB,6
+ehu,2,1º,Anatomía Humana III,OB,6
+ehu,2,1º,Fisiología Médica I,OB,8
+ehu,2,1º,Histología Médica Básica,FB,6
+ehu,2,1º,Introducción a la Investigación Biomédica,FB,6
+ehu,2,2º,Anatomía Humana IV,OB,8
+ehu,2,2º,Fisiología Médica II,OB,6
+ehu,2,2º,Histología Médica Especial,OB,6
+ehu,2,2º,Microbiología e Inmunología Médicas,OB,8
+ehu,2,1º-2º,Optativa,OP,6
+ehu,3,Anual,Fundamentos de Cirugía,OB,9
+ehu,3,Anual,Patología General,OB,9
+ehu,3,Anual,Proyecto de Investigación,OB,6
+ehu,3,1º,Fundamentos de Farmacología Médica,FB,6
+ehu,3,1º,Microbiología Clínica e Infección,OB,6
+ehu,3,2º,Anatomía Patológica General,OB,6
+ehu,3,2º,"Ética Médica, Comunicación y Relación Clínica",OB,6
+ehu,3,1º-2º,Optativas,OP,12
+ehu,4,Anual,Cirugía I,OB,12
+ehu,4,Anual,Oftalmología,OB,6
+ehu,4,Anual,Otorrinolaringología,OB,6
+ehu,4,Anual,Patología y Clínica Médica I,OB,12
+ehu,4,Anual,Psiquiatría,OB,6
+ehu,4,1º,Anatomía Patológica Especial,OB,6
+ehu,4,1º,Dermatología,OB,6
+ehu,4,2º,Radiología y Medicina Física I,OB,6
+ehu,5,Anual,Cirugía II,OB,9
+ehu,5,Anual,Medicina Legal y Forense,OB,6
+ehu,5,Anual,Obstetricia y Ginecología,OB,9
+ehu,5,Anual,Patología y Clínica Médica II,OB,9
+ehu,5,Anual,Pediatría,OB,9
+ehu,5,1º,Radiología y Medicina Física II,OB,6
+ehu,5,2º,Farmacología Médica Aplicada,OB,6
+ehu,5,2º,Medicina Preventiva y Salud Pública y Comunitaria,OB,6
+ehu,6,Anual,Prácticas Tuteladas Rotatorio,PE,54
+ehu,6,2º,Trabajo Fin de Grado,TFG,6
+upf,1,,Estructura y Función del Cuerpo Humano I: Anatomía e Histología,FB,6
+upf,1,,Neurociencias Básicas I: Estructura del Sistema Nervioso,FB,5
+upf,1,,Ciencias de la Vida I: Bioquímica General,FB,6
+upf,1,,Física. Fundamentos físico-químicos de los procesos biológicos,FB,5
+upf,1,,Ciencias de la Vida II: Biología Celular,FB,8
+upf,1,,Neurociencias Básicas II: Fisiología General y del Sistema Nervioso,FB,8
+upf,1,,Medicina Basada en la Evidencia I: Investigación y manejo de datos,FB,5
+upf,1,,"Medicina Basada en la Evidencia II: Métodos matemáticos, Bioinformática y Telemedicina",FB,6
+upf,1,,Medicina Integrada: Medicina Basada en la Evidencia,FB,4
+upf,1,,"Medicina, Sociedad y Personas I: Introducción a la Medicina",OB,3
+upf,1,,Introducción a la Asistencia I: El paciente y su entorno,OB,4
+upf,2,,Estructura y Función del Cuerpo Humano II: Anatomía e Histología,FB,5
+upf,2,,Estructura y Función del Cuerpo Humano III: Anatomía e Histología,FB,4
+upf,2,,Ciencias de la Vida III: Metabolismo Celular y Biología Molecular,FB,8
+upf,2,,Ciencias de la Vida IV: Genética General y Biología del Desarrollo,FB,8
+upf,2,,Estructura y Función del Cuerpo Humano IV: Fisiología de Sistemas,FB,8
+upf,2,,Medicina Integrada: Neurociencias Básicas,FB,3
+upf,2,,"Medicina, Sociedad y Personas II: Psicología Médica y Relación Médico-Paciente",FB,4
+upf,2,,Introducción a la Asistencia II: La Enfermedad,OB,4
+upf,2,,Medicina Basada en la Evidencia III: Epidemiología,OB,4
+upf,2,,Fundamentos del Diagnóstico: Fisiopatología e Introducción a la Semiología,OB,5
+upf,3,,Fundamentos del Diagnóstico: Semiología,OB,3
+upf,3,,Fundamentos del Diagnóstico: Técnicas de Imagen,OB,3
+upf,3,,Fundamentos del Diagnóstico: Anatomía Patológica,OB,3
+upf,3,,Medicina Integrada: Fundamentos del Diagnóstico y el Soporte,OB,3
+upf,3,,Fundamentos del Diagnóstico: Genética Clínica,OB,4
+upf,3,,Inmunología General,OB,4
+upf,3,,Microbiología y Patologías Infecciosas Integradas I,OB,7
+upf,3,,Neurociencias Clínicas: Enfermedades Psiquiátricas,OB,3
+upf,3,,Medicina Integrada: Neurociencias Clínicas,OB,3
+upf,3,,Neurociencias Clínicas: Enfermedades Neurológicas,OB,4
+upf,3,,Fundamentos del Tratamiento y el Soporte: Cirugía y Anestesia,OB,3
+upf,3,,Fundamentos del Tratamiento y el Soporte: El Cáncer y sus Tratamientos,OB,4
+upf,3,,Fundamentos del Tratamiento y el Soporte: Farmacología Clínica,OB,4
+upf,3,,Medicina Integrada: Fundamentos del Tratamiento y el Soporte,OB,3
+upf,3,,Afectación Sistémica: Patología Endocrina y Nutrición,OB,6
+upf,4,,Patología Torácica: Patología Cardiovascular,OB,5
+upf,4,,Patología Torácica: Patología Respiratoria,OB,5
+upf,4,,Medicina Integrada: Patología Torácica,OB,3
+upf,4,,"Medicina, Sociedad y Personas III: Medicina Tóxico-Legal",OB,3
+upf,4,,Afectación Sistémica: Enfermedades Autoinmunes,OB,3
+upf,4,,Afectación Sistémica: Patología Osteomuscular,OB,5
+upf,4,,Afectación Sistémica: Hematología,OB,5
+upf,4,,Medicina Integrada: Afectación Sistémica,OB,3
+upf,4,,Medicina Basada en la Evidencia IV: Salud Pública,OB,5
+upf,4,,Patología Digestiva,OB,5
+upf,4,,Patología Nefrourinaria,OB,5
+upf,4,,Medicina Integrada: Patología Digestiva y Nefrourinaria,OB,4
+upf,4,,"Medicina, Sociedad y Personas IV: Bioética y Derecho",OB,3
+upf,4-6,,Trabajo Fin de Grado,TFG,16
+upf,5,,Farmacología Clínica,OB,5
+upf,5,,Microbiología y Patologías Infecciosas Integradas II,OB,3
+upf,5,,Patologías Dermatológicas,OB,5
+upf,5,,Los Sentidos: Enfermedades Oculares,OB,4
+upf,5,,Los Sentidos: Enfermedades Óticas y de las Vías Aéreas Altas,OB,4
+upf,5,,Medicina Integrada: Ciclo de la Vida,OB,5
+upf,5,,"Ciclo de la Vida I: Patología Ginecológica, Reproducción y Sexualidad",OB,5
+upf,5,,Ciclo de la Vida II: Enfermedades de la Infancia y el Crecimiento,OB,5
+upf,5,,"Medicina Basada en la Evidencia V: Gestión Sanitaria, Eficiencia y Sostenibilidad",OB,3
+upf,6,,Paciente Crítico,OB,5
+upf,6,,El Paciente Vulnerable,OB,5
+upf,6,,Prácticas Tuteladas (Programa General de Rotatorio),PE,44
+upf,1-6,,Optativas,OP,27
+upna,1,,[Materia] Anatomía Humana,FB,18
+upna,1-2,,[Materia] Biología,FB,12
+upna,1,,[Materia] Bioquímica,FB,6
+upna,1,,[Materia] Física,FB,6
+upna,1-2,,[Materia] Fisiología,FB,18
+upna,2,,[Materia] Psicología,FB,6
+upna,2,,[Materia] Estadística,FB,6
+upna,2,,"[Materia] Deontología, Bioética y Comunicación",OB,6
+upna,1,,[Materia] Introducción a la Ciencia Médica,OB,6
+upna,2-6,,[Materia] Medicina Social,OB,21
+upna,3-5,,[Materia] Patología de Órganos y Sistemas,OB,72
+upna,4-6,,[Materia] Ámbitos Clínicos de la Práctica Médica,OB,33
+upna,2-3,,[Materia] Procedimientos Diagnósticos,OB,28.5
+upna,2-3,,[Materia] Procedimientos Terapéuticos,OB,16.5
+upna,1-6,,[Materia] Medicina Integrada Personalizada,OB,36
+upna,2-6,,[Materia] Programa General de Rotatorio de Prácticas,PE,51
+upna,6,,Trabajo Fin de Grado,TFG,12
+upna,5,,Optatividad,OP,6
+urjc,1,1º,Bioestadística,FB,6
+urjc,1,1º,Biología celular humana,FB,6
+urjc,1,1º,Psicología de la salud,FB,6
+urjc,1,2º,Genética humana,FB,6
+urjc,1,2º,Introducción a la Medicina: información y documentación médica,FB,6
+urjc,1,2º,Epidemiología,OB,6
+urjc,1,Anual,Anatomía humana I,FB,9
+urjc,1,Anual,Bioquímica y Biología molecular,FB,15
+urjc,2,1º,Deontología profesional y legislación sanitaria,OB,5
+urjc,2,2º,Radiología general,OB,4
+urjc,2,2º,Nutrición y Dietética,OB,3
+urjc,2,Anual,Anatomía humana II,FB,14
+urjc,2,Anual,Fisiología humana,FB,22
+urjc,2,Anual,Histología humana,OB,12
+urjc,3,1º,Inmunología humana,OB,4
+urjc,3,2º,Radiología clínica,OB,3
+urjc,3,2º,Principios de Medicina física y Rehabilitación,OB,4
+urjc,3,Anual,Microbiología y Parasitología médicas,OB,7
+urjc,3,Anual,Farmacología,OB,10
+urjc,3,Anual,Anatomía Patológica,OB,10
+urjc,3,Anual,Cirugía general,OB,5
+urjc,3,Anual,Patología general,OB,15
+urjc,3,Anual,Reconocimiento académico de créditos I,OB,2
+urjc,4,1º,Patología médico-quirúrgica del aparato cardiovascular,OB,6
+urjc,4,1º,Patología médico-quirúrgica del aparato digestivo,OB,6
+urjc,4,1º,Patología médica de las enfermedades infecciosas y del sistema inmune,OB,6
+urjc,4,1º,Oftalmología,OB,5
+urjc,4,2º,Patología médico-quirúrgica del aparato génito-urinario,OB,6
+urjc,4,2º,Patología médico-quirúrgica del aparato respiratorio,OB,6
+urjc,4,2º,Hematología y Oncología,OB,6
+urjc,4,2º,Otorrinolaringología,OB,5
+urjc,4,Anual,Prácticas Clínicas I,PE,12
+urjc,4,Anual,Reconocimiento académico de créditos II,OB,2
+urjc,5,1º,Dermatología médico-quirúrgica y Venereología,OB,5
+urjc,5,1º,Patología médico-quirúrgica del sistema endocrino,OB,6
+urjc,5,2º,Patología médico-quirúrgica del sistema nervioso,OB,6
+urjc,5,2º,Reumatología,OB,4
+urjc,5,Anual,Cirugía ortopédica y Traumatología,OB,5
+urjc,5,Anual,Obstetricia y Ginecología,OB,9
+urjc,5,Anual,Pediatría,OB,11
+urjc,5,Anual,Prácticas Clínicas II,PE,12
+urjc,5,Anual,Reconocimiento académico de créditos III,OB,2
+urjc,6,1º,Psiquiatría,OB,7
+urjc,6,1º,Medicina de familia y comunitaria,OB,5
+urjc,6,2º,Medicina Preventiva y Salud Pública,OB,6
+urjc,6,2º,Medicina forense y Toxicología,OB,6
+urjc,6,Anual,Prácticas Clínicas III,PE,30
+urjc,6,Anual,Trabajo fin de grado,TFG,6
+urv,1,Anual,Biologia Cel·lular i Fonaments de Genètica,FB,9
+urv,1,Anual,Bioquímica i Biologia Molecular,FB,9
+urv,1,1º,Bioestadística,FB,6
+urv,1,1º,Física Mèdica,OB,3
+urv,1,2º,Fisiologia Humana,FB,6
+urv,1,Anual,Anatomia General i de l'Aparell Locomotor,FB,12
+urv,1,Anual,Bases de la Recerca i Documentació,FB,6
+urv,1,Anual,Bases de Comunicació i Ètica,FB,6
+urv,1,2º,Histologia i Diferenciació Cel·lular,OB,3
+urv,2,Anual,"Histologia dels Òrgans, Aparells i Sistemes",FB,9
+urv,2,Anual,Anatomia Esplàcnica i del Sistema Nerviós,FB,10
+urv,2,1º,"Fisiologia del Transport, Integració i Homeostasi",FB,6
+urv,2,1º,Psicologia Mèdica,FB,6
+urv,2,1º,Genètica i Genòmica Humana,OB,3
+urv,2,1º,Optatives (2),OP,6
+urv,2,2º,Immunologia Cel·lular,OB,3
+urv,2,2º,Fisiologia del Control i Creixement,FB,8
+urv,2,2º,Habilitats Preclíniques,OB,3
+urv,2,2º,Introducció a la Clínica,OB,3
+urv,2,2º,Introducció a la Pediatria,OB,3
+urv,3,Anual,Patologia General,OB,6
+urv,3,Anual,Farmacologia General,OB,6
+urv,3,Anual,Diagnòstic per la Imatge,OB,5
+urv,3,1º,Nutrició,OB,3
+urv,3,1º,Anatomia Patològica General,OB,4
+urv,3,1º,Microbiologia i Parasitologia Generals,OB,5
+urv,3,1º,"Epidemiologia General (ECTS no indicats a la font, inferit)",OB,3
+urv,3,1º,Optatives (2),OP,6
+urv,3,2º,Genètica Clínica,OB,3
+urv,3,2º,Introducció a la Cirurgia,OB,3
+urv,3,2º,Assignatura de 4 ECTS no identificada (la font repeteix Anatomia Patològica General),OB,4
+urv,3,2º,Microbiologia Clínica,OB,3
+urv,3,2º,Geriatria,OB,3
+urv,3,2º,Rehabilitació i Cronicitat,OB,3
+urv,3,2º,Noves Tecnologies i Maneig de Dades,OB,3
+urv,4,Anual,Clínica I,PE,6
+urv,4,Anual,Obstetrícia i Ginecologia,OB,9
+urv,4,Anual,Dermatologia,OB,4
+urv,4,Anual,Oncologia,OB,3
+urv,4,1º,Malalties de l'Aparell Circulatori,OB,4
+urv,4,1º,Malalties de l'Aparell Locomotor,OB,4
+urv,4,1º,Radiologia Clínica,OB,3
+urv,4,1º,Malalties de l'Aparell Respiratori,OB,4
+urv,4,1º,Anestèsia i Clínica del Dolor,OB,3
+urv,4,2º,Oftalmologia,OB,4
+urv,4,2º,Otorrinolaringologia,OB,4
+urv,4,2º,Malalties del Sistema Nerviós,OB,4
+urv,4,2º,Malalties Infeccioses,OB,4
+urv,4,2º,Malalties de l'Aparell Digestiu,OB,4
+urv,5,Anual,Clínica II,PE,8
+urv,5,Anual,Pediatria,OB,10
+urv,5,Anual,Psiquiatria,OB,6
+urv,5,1º,Malalties Renals i Urinàries,OB,4
+urv,5,1º,Farmacologia Clínica,OB,3
+urv,5,1º,Introducció Pràctica a la Recerca (Anglès),OB,3
+urv,5,1º,Maneig del Pacient Crític i Politraumàtic,OB,3
+urv,5,2º,Malalties del Sistema Endocrí i Metabòliques,OB,4
+urv,5,2º,Medicina Preventiva i Salut Pública i Comunitària,OB,6
+urv,5,2º,Medicina Legal i Toxicologia,OB,6
+urv,5,2º,Malalties Sanguínies i Hematopoiètiques,OB,4
+urv,5,2º,Malalties Sistèmiques i Autoimmunitàries,OB,3
+urv,6,Anual,Clínica Mèdica,PE,17
+urv,6,Anual,Clínica Quirúrgica,PE,12
+urv,6,Anual,Clínica Obstètrica i Ginecològica,PE,4
+urv,6,Anual,Clínica Pediàtrica,PE,6
+urv,6,Anual,Clínica Psiquiàtrica,PE,3
+urv,6,Anual,Atenció Primària,PE,5
+urv,6,Anual,"Àmbits d'Actuació: Atenció Sociosanitària, Urgències, Intensius, Investigació, Medicina Legal, Gestió i Altres",PE,4
+urv,6,Anual,Habilitats Diagnòstiques i Terapèutiques,PE,3
+urv,6,Anual,Treball de Fi de Grau,TFG,6
+usal,1,1º,Anatomía General y Embriología Humanas,FB,6
+usal,1,1º,Física Médica,FB,6
+usal,1,1º,Bioquímica,FB,6
+usal,1,1º,Biología Médica,FB,6
+usal,1,1º,Bases Metodológicas del Conocimiento Científico,FB,3
+usal,1,1º,Ética y Deontología Médicas,FB,3
+usal,1,2º,Anatomía Humana I: Aparato Locomotor y Biomecánica,FB,8
+usal,1,2º,Psicología Médica y Habilidades de la Comunicación,FB,6
+usal,1,2º,Fisiología General,FB,6
+usal,1,2º,Procesos Bioquímicos y Metabólicos,FB,6
+usal,1,2º,Histología Humana I,FB,4
+usal,2,1º,Bioestadística,FB,6
+usal,2,1º,"Anatomía Humana II: Esplacnología, Estesiología",FB,6
+usal,2,1º,Fisiología Humana I,FB,6
+usal,2,Anual,Fundamentos de Medicina Clínica: Fisiopatología y Semiología,OB,15
+usal,2,1º,Histología Humana II,FB,3
+usal,2,2º,Epidemiología Médica,FB,3
+usal,2,2º,Anatomía Humana III: Neuroanatomía,FB,6
+usal,2,2º,Fisiología Humana II,FB,6
+usal,2,2º,Farmacología General,OB,6
+usal,2,2º,Inmunología,FB,3
+usal,3,1º,Anatomía Patológica,OB,6
+usal,3,1º,Radiología y Medicina Nuclear,OB,6
+usal,3,1º,Fundamentos de Cirugía y Trasplantes,OB,5
+usal,3,1º,Microbiología Médica,OB,6
+usal,3,1º,Historia de la Medicina,FB,4
+usal,3,Anual,Prácticas de Procedimientos Diagnósticos y Terapéuticos,PE,6
+usal,3,2º,Inglés Científico,FB,3
+usal,3,2º,Enfermedades Infecciosas y Microbiología Aplicada,OB,4
+usal,3,2º,Optativas 1-3,OP,9
+usal,3,2º,Neurología y Neurocirugía,OB,6
+usal,3,2º,Nefro-Urología,OB,5
+usal,4,1º,Dermatología,OB,5
+usal,4,1º,Medicina y Cirugía del Aparato Digestivo y Abdomen,OB,7
+usal,4,1º,"Medicina y Cirugía del Sistema Endocrino, Nutrición y Metabolismo",OB,5
+usal,4,1º,Obstetricia,OB,4
+usal,4,1º,Farmacología Clínica,OB,3
+usal,4,1º,Traumatología y Cirugía Ortopédica,OB,6
+usal,4,2º,Medicina y Cirugía del Aparato Respiratorio y el Tórax,OB,6
+usal,4,2º,Medicina y Cirugía del Aparato Cardiovascular,OB,7
+usal,4,2º,Reumatología e Inmunología Clínica,OB,4
+usal,4,2º,Ginecología,OB,4
+usal,4,2º,Genética Clínica,OB,3
+usal,4,2º,"Anestesiología, Reanimación y Tratamiento del Dolor",OB,3
+usal,4,2º,Optativa 4,OP,3
+usal,5,1º,"Medicina Preventiva, Salud Pública y Gestión Sanitaria",OB,6
+usal,5,1º,Medicina Legal y Forense,OB,4
+usal,5,1º,Oftalmología,OB,4
+usal,5,1º,Otorrinolaringología,OB,4
+usal,5,Anual,Pediatría,OB,8
+usal,5,1º,Hematología,OB,5
+usal,5,1º,Optativa 5,OP,3
+usal,5,2º,"Medicina Intensiva, Urgencias, Cuidados Paliativos",OB,3
+usal,5,2º,Radioterapia y Rehabilitación,OB,3
+usal,5,2º,Oncología Médica,OB,5
+usal,5,2º,Alergología,OB,3
+usal,5,2º,Psiquiatría,OB,6
+usal,5,2º,"Medicina de Familia y Comunitaria, y Geriatría",OB,3
+usal,5,2º,Optativa 6,OP,3
+usal,6,Anual,Rotatorio de Prácticas Clínicas en Atención Primaria y Especializada y ECOE,PE,54
+usal,6,2º,Trabajo Fin de Grado,TFG,6
+usc,1,,Anatomía del aparato locomotor,FB,6
+usc,1,,Bioestadística,FB,6
+usc,1,,Biología humana: citología y genética,FB,6
+usc,1,,Bioquímica I,FB,6
+usc,1,,Bioquímica II,FB,6
+usc,1,,Esplacnología,FB,6
+usc,1,,Fisiología general,FB,6
+usc,1,,Histología humana general y especial,FB,9
+usc,1,,Anatomía general y embriología,OB,4.5
+usc,1,,Epidemiología e iniciación a la investigación,OB,4.5
+usc,2,,Fisiología integrada de sistemas,FB,6
+usc,2,,Fisiología médica,FB,6
+usc,2,,Microbiología,FB,6
+usc,2,,Neuroanatomía,FB,6
+usc,2,,Psicología médica y comunicación médico-paciente,FB,9
+usc,2,,Anatomía por técnicas de imagen,OB,4.5
+usc,2,,Ética médica,OB,4.5
+usc,2,,Habilidades clínicas,OB,4.5
+usc,2,,Inmunología médica,OB,4.5
+usc,2,,Patología general I,OB,4.5
+usc,2,,Optativa,OP,4.5
+usc,3,,Patología general II,FB,6
+usc,3,,Anatomía patológica,OB,9
+usc,3,,Bases de la cirugía clínica,OB,6
+usc,3,,Enfermedades del aparato respiratorio,OB,4.5
+usc,3,,Enfermedades infecciosas sistémicas y microbiología clínica,OB,4.5
+usc,3,,Enfermedades renales y urinarias,OB,4.5
+usc,3,,Farmacología,OB,6
+usc,3,,Radiología,OB,9
+usc,3,,Práctica clínica I,PE,6
+usc,3,,Optativa,OP,4.5
+usc,4,,Bioquímica clínica,OB,4.5
+usc,4,,"Enfermedades autoinmunes sistémicas, alérgicas y reumatológicas",OB,4.5
+usc,4,,Enfermedades del aparato cardiovascular,OB,6
+usc,4,,Enfermedades del aparato digestivo,OB,6
+usc,4,,"Enfermedades del sistema endocrino, metabolismo y nutrición clínica",OB,4.5
+usc,4,,Farmacología clínica,OB,4.5
+usc,4,,Obstetricia y ginecología,OB,6
+usc,4,,Oftalmología,OB,4.5
+usc,4,,Otorrinolaringología,OB,4.5
+usc,4,,Pediatría I,OB,4.5
+usc,4,,Pediatría II,OB,4.5
+usc,4,,Práctica clínica II,PE,6
+usc,5,,"Cuidados intensivos, anestesia y toxicología clínica",OB,4.5
+usc,5,,Dermatología,OB,4.5
+usc,5,,Enfermedades del aparato locomotor: cirugía ortopédica y traumatología. Rehabilitación,OB,6
+usc,5,,Enfermedades del sistema nervioso,OB,6
+usc,5,,Medicina familiar y comunitaria y geriatría,OB,6
+usc,5,,Medicina legal,OB,6
+usc,5,,Medicina preventiva y salud pública,OB,6
+usc,5,,"Oncología, cuidados paliativos y enfermedades hematopoyéticas",OB,4.5
+usc,5,,Psiquiatría,OB,6
+usc,5,,Práctica clínica III,PE,6
+usc,5,,Optativa,OP,4.5
+usc,6,,"Clínica médica I. Rotación de urgencias, servicios centrales",PE,12
+usc,6,,Clínica médica II,PE,9
+usc,6,,Clínica obstétrica y ginecológica,PE,6
+usc,6,,Clínica pediátrica,PE,6
+usc,6,,Clínica psiquiátrica,PE,6
+usc,6,,Clínica quirúrgica,PE,9
+usc,6,,Práctica clínica en medicina de familia y comunitaria,PE,6
+usc,6,,Trabajo fin de grado,TFG,6
+us,1,C1,Anatomía Humana General,FB,6
+us,1,C1,Biología,FB,6
+us,1,C1,Bioquímica y Biología Molecular Básica,FB,6
+us,1,C1,Fisiología General,FB,6
+us,1,C1,Optativa 1,OP,6
+us,1,C2,Anatomía Humana I,FB,8
+us,1,C2,Bioquímica y Biología Molecular Humana,FB,11
+us,1,C2,Histología Humana,FB,11
+us,2,C1,Bioestadística,FB,6
+us,2,C1,Psicología Médica,FB,6
+us,2,C1,Anatomía Humana II,OB,9
+us,2,C1,Fisiología Médica I,OB,9
+us,2,C2,Comunicación Asistencial,OB,6
+us,2,C2,Epidemiología e Investigación en Salud,OB,6
+us,2,C2,Fisiología Médica II,OB,6
+us,2,C2,Historia de la Medicina y Documentación Científica,OB,6
+us,2,C2,Patología General: Semiología y Propedéutica,OB,6
+us,3,C1,Anatomía Patológica,OB,9
+us,3,C1,Ética Médica,OB,3
+us,3,C1,Farmacología Médica y Clínica,OB,9
+us,3,C1,Microbiología Médica y Clínica,OB,9
+us,3,C2,Dermatología,OB,6
+us,3,C2,"Fundamentos de Cirugía, Anestesiología y Reanimación",OB,6
+us,3,C2,Oftalmología,OB,6
+us,3,C2,Otorrinolaringología,OB,6
+us,3,C2,Patología Médica de las Enfermedades Infecciosas y del Sistema Inmune. Atención Primaria,OB,6
+us,4,C1,Diagnóstico por Imagen,OB,6
+us,4,C1,"Patología Médica de Sistemas: Cardiovascular, Respiratorio y Digestivo",OB,13
+us,4,C1,"Patología Quirúrgica de Sistemas: Cardiovascular, Toraco-Pulmonar y Abdomen",OB,11
+us,4,C2,Genética Médica,OB,3
+us,4,C2,Obstetricia y Ginecología,OB,8
+us,4,C2,Pediatría,OB,10
+us,4,C2,Psiquiatría,OB,6
+us,4,C2,Rehabilitación Médica,OB,3
+us,5,C1,Bioquímica Clínica y Patología Molecular,OB,3
+us,5,C1,"Patología Médica del Sistema Endocrino, Reumatología, Nefrología y Sistema Nervioso",OB,12
+us,5,C1,Patología Quirúrgica de Sistemas Endocrino y Mama. Traumatología y Ortopedia. Maxilofacial. Urología y Neurocirugía,OB,12
+us,5,C1,Psiquiatría Infantil,OB,3
+us,5,C2,Geriatría y Cuidados Paliativos,OB,6
+us,5,C2,Hematología y Oncología Médica,OB,6
+us,5,C2,Medicina Legal,OB,6
+us,5,C2,Medicina Preventiva y Salud Pública,OB,6
+us,5,C2,Optativa 2,OP,6
+us,6,Anual,Rotatorio Clínico 1,PE,21.5
+us,6,Anual,Rotatorio Clínico 2,PE,21.5
+us,6,Anual,Rotatorio Clínico 3,PE,11
+us,6,Anual,Trabajo Fin de Grado,TFG,6
+uv,1,,Anatomía general,FB,6
+uv,1,,Anatomía de los aparatos y sistemas,FB,6
+uv,1,,Embriología,OB,4.5
+uv,1,,Histología general,OB,4.5
+uv,1,,Biología,FB,6
+uv,1,,Bioquímica y biología molecular,FB,6
+uv,1,,Fisiología general,FB,6
+uv,1,,Fisiología médica I,FB,6
+uv,1,,Estadística,FB,6
+uv,1,,Comunicación,OB,4.5
+uv,1,,"Universidad, salud y sociedad",OB,4.5
+uv,2,,Histología especial,OB,4.5
+uv,2,,Neuroanatomía,OB,6
+uv,2,,Integración bioquímica y bioquímica clínica,FB,6
+uv,2,,Fisiología médica II,FB,6
+uv,2,,Fisiología médica III,OB,6
+uv,2,,Psicología médica,FB,6
+uv,2,,Ética médica,OB,4.5
+uv,2,,Epidemiología y medicina preventiva,OB,4.5
+uv,2,,Historia de la medicina y documentación,FB,6
+uv,2,,Microbiología y parasitología médicas,OB,6
+uv,2,,Optatividad,OP,4.5
+uv,3,,Procedimientos diagnósticos y terapéuticos quirúrgicos,OB,6
+uv,3,,Radiología general,OB,6
+uv,3,,Farmacología general y de órganos y sistemas,OB,4.5
+uv,3,,Anatomía patológica general,OB,4.5
+uv,3,,Anatomía patológica especial,OB,4.5
+uv,3,,Patología general y semiología,OB,6
+uv,3,,Inmunología e inmunopatología,OB,4.5
+uv,3,,Patología del aparato circulatorio,OB,6
+uv,3,,Oftalmología,OB,4.5
+uv,3,,Otorrinolaringología,OB,4.5
+uv,3,,Optatividad,OP,9
+uv,4,,"Radiología clínica, medicina física y rehabilitación",OB,6
+uv,4,,Psiquiatría,OB,6
+uv,4,,Oncología y genética médica,OB,6
+uv,4,,Hematología,OB,4.5
+uv,4,,Nefrología y urología,OB,6
+uv,4,,Patología del aparato respiratorio,OB,6
+uv,4,,Patología del aparato digestivo,OB,6
+uv,4,,Patología del aparato locomotor,OB,6
+uv,4,,Dermatología,OB,4.5
+uv,4,,Optatividad,OP,9
+uv,5,,Medicina legal y salud pública,OB,4.5
+uv,5,,Farmacología clínica,OB,4.5
+uv,5,,Atención primaria y geriatría,OB,6
+uv,5,,"Urgencias, emergencias médicas y toxicología clínica",OB,6
+uv,5,,Enfermedades infecciosas y microbiología clínica,OB,4.5
+uv,5,,Endocrinología y nutrición I,OB,4.5
+uv,5,,Endocrinología y nutrición II,OB,4.5
+uv,5,,Patología del sistema nervioso,OB,6
+uv,5,,Pediatría I,OB,4.5
+uv,5,,Pediatría II,OB,4.5
+uv,5,,Obstetricia y ginecología,OB,6
+uv,5,,Optatividad,OP,4.5
+uv,6,,Prácticas tuteladas,PE,54
+uv,6,,Trabajo fin de grado,TFG,6
+uva,1,1º,Anatomía Humana I,FB,9
+uva,1,1º,Biología Médica,FB,9
+uva,1,1º,Bioquímica y Biología Molecular I,FB,9
+uva,1,1º,Física Médica,FB,3
+uva,1,2º,Bioquímica y Biología Molecular II,FB,9
+uva,1,2º,Historia de la Medicina,OB,3
+uva,1,2º,Anatomía Humana II,OB,7.5
+uva,1,2º,Genética Médica,OB,4.5
+uva,1,2º,Histología Médica,OB,6
+uva,2,1º,Fisiología Humana I,FB,9
+uva,2,1º,Embriología Humana,OB,3
+uva,2,1º,Inmunología Humana,OB,4.5
+uva,2,1º,Microbiología y Parasitología Médica,OB,6
+uva,2,1º,Epidemiología y Demografía Sanitaria,OB,3.5
+uva,2,1º,Bioestadística Sanitaria,OB,4
+uva,2,2º,Fisiología Humana II,FB,9
+uva,2,2º,Psicología,FB,4
+uva,2,2º,Anatomía Humana III,OB,4.5
+uva,2,2º,Bioética,OB,2
+uva,2,2º,Investigación Biomédica y Nuevas Tecnologías,OB,3
+uva,2,2º,Radiología y Medicina Física General,OB,4.5
+uva,2,2º,Optativa,OP,3
+uva,3,1º,Anatomía Patológica,OB,7.5
+uva,3,1º,Farmacología Básica,OB,7
+uva,3,1º,Fisiopatología General y Semiología,OB,6
+uva,3,1º,Fundamentos de Cirugía y Anestesia,OB,4.5
+uva,3,1º,Propedéutica Clínica y Comunicación Asistencial,OB,3
+uva,3,2º,Enfermedades Infecciosas,OB,4
+uva,3,2º,Hematología,OB,3
+uva,3,2º,Patología Médico-Quirúrgica Aparato Cardiovascular,OB,7
+uva,3,2º,Patología Médico-Quirúrgica Aparato Urinario,OB,5
+uva,3,2º,Patología Médico-Quirúrgica de Aparato Digestivo,OB,7
+uva,3,Anual,Prácticas Médico-Quirúrgicas I,OB,6
+uva,4,1º,Dermatología,OB,5
+uva,4,1º,Nutrición y Dietoterapia,OB,3
+uva,4,1º,Patología Médico-Quirúrgica del Sistema Endocrino y Metabolismo,OB,4
+uva,4,1º,Patología Médico-Quirúrgica del Sistema Nervioso,OB,5
+uva,4,1º,Psiquiatría,OB,6
+uva,4,2º,Medicina Legal,OB,4.5
+uva,4,2º,Oftalmología,OB,5
+uva,4,2º,Otorrinolaringología,OB,5
+uva,4,2º,Patología Médico-Quirúrgica del Aparato Respiratorio,OB,5
+uva,4,2º,Toxicología Clínica,OB,2.5
+uva,4,Anual,Prácticas Médico-Quirúrgicas II,OB,6
+uva,4,Anual,Obstetricia y Ginecología,OB,9
+uva,5,1º,Genética Clínica y Medicina Molecular y Regenerativa,OB,4.5
+uva,5,1º,Medicina Preventiva y Salud Pública,OB,6
+uva,5,1º,Patología Médico-Quirúrgica del Aparato Locomotor,OB,6
+uva,5,1º,Radiología y Medicina Física Especial,OB,4.5
+uva,5,2º,Farmacología Clínica,OB,3
+uva,5,2º,Geriatría y Gerontología,OB,2
+uva,5,2º,Inmunopatología y Alergia,OB,3
+uva,5,2º,Medicina Familiar y Comunitaria,OB,3
+uva,5,2º,Oncología Clínica y Medicina Paliativa,OB,3
+uva,5,2º,Patología Crítica y Emergencias,OB,5
+uva,5,2º,Optativa,OP,3
+uva,5,Anual,Prácticas Médico-Quirúrgicas III,OB,6
+uva,5,Anual,Pediatría,OB,11
+uva,6,Anual,Prácticas Tuteladas de Clínica Médica,PE,15
+uva,6,Anual,Prácticas Tuteladas de Clínica Obstétrica y Ginecológica,PE,6
+uva,6,Anual,Prácticas Tuteladas de Clínica Pediátrica,PE,9
+uva,6,Anual,Prácticas Tuteladas de Clínica Psiquiátrica,PE,3
+uva,6,Anual,Prácticas Tuteladas de Clínica Quirúrgica,PE,15
+uva,6,Anual,Prácticas Tuteladas de Medicina de Familia,PE,6
+uva,6,Anual,Trabajo Fin de Grado,TFG,6
+unizar,1,1º,Anatomía humana I,FB,6
+unizar,1,1º,Fisiología humana I,FB,6
+unizar,1,1º,Biología,FB,6
+unizar,1,1º,Bioquímica médica I,FB,6
+unizar,1,1º,Bioestadística,FB,6
+unizar,1,2º,Anatomía humana II,FB,6
+unizar,1,2º,Fisiología humana II,FB,6
+unizar,1,2º,Introducción al humanismo e Historia de la Medicina,FB,6
+unizar,1,2º,Histología I,OB,3
+unizar,1,2º,Genética médica,OB,3
+unizar,1,2º,Bioquímica médica II,OB,3
+unizar,1,2º,Documentación médica,OB,3
+unizar,2,1º,Anatomía humana III,FB,6
+unizar,2,1º,Fisiología humana III,FB,6
+unizar,2,1º,Histología II,OB,6
+unizar,2,1º,Psicología,FB,6
+unizar,2,1º,Comunicación Asistencial,OB,3
+unizar,2,1º,Ética médica,OB,3
+unizar,2,2º,Anatomía humana IV,FB,6
+unizar,2,2º,Fisiología humana IV,FB,6
+unizar,2,2º,Patología general I,OB,6
+unizar,2,2º,Microbiología,FB,6
+unizar,2,2º,Radiología general,OB,3
+unizar,2,2º,Inmunología,OB,3
+unizar,3,1º,Fundamentos de Cirugía,OB,6
+unizar,3,1º,Farmacología I,FB,6
+unizar,3,1º,Epidemiología y Salud pública,OB,6
+unizar,3,1º,Anatomía Patológica,OB,6
+unizar,3,1º,Patología general II,OB,3
+unizar,3,1º,Medicina legal y forense I,OB,3
+unizar,3,2º,Patología médico-quirúrgica del aparato digestivo,OB,9
+unizar,3,2º,Patología médico-quirúrgica del aparato cardiovascular,OB,6
+unizar,3,2º,Patología médico-quirúrgica del aparato respiratorio,OB,6
+unizar,3,2º,Farmacología II,OB,6
+unizar,3,2º,Optativa / reconocimiento,OP,3
+unizar,4,1º,Patología médico-quirúrgica neurológica,OB,6
+unizar,4,1º,Radiología clínica,OB,6
+unizar,4,1º,Oftalmología,OB,4
+unizar,4,1º,Otorrinolaringología,OB,4
+unizar,4,1º,Dermatología,OB,4
+unizar,4,1º,Anestesia y Medicina del dolor,OB,3
+unizar,4,1º,Optativa / reconocimiento,OP,3
+unizar,4,2º,Patología médico-quirúrgica endocrinológica y nutricional,OB,6
+unizar,4,2º,Psiquiatría,OB,6
+unizar,4,2º,Reumatología y Alergología,OB,4
+unizar,4,2º,Hematología,OB,4
+unizar,4,2º,Oncología,OB,4
+unizar,4,2º,Medicina paliativa,OB,3
+unizar,4,2º,Optativa / reconocimiento,OP,3
+unizar,5,1º,Obstetricia y Ginecología,OB,9
+unizar,5,1º,Traumatología,OB,6
+unizar,5,1º,Nefrología,OB,4
+unizar,5,1º,Urología,OB,4
+unizar,5,1º,Enfermedades infecciosas y Microbiología clínica,OB,4
+unizar,5,1º,Optativa / reconocimiento,OP,3
+unizar,5,2º,Pediatría,OB,9
+unizar,5,2º,Medicina familiar y comunitaria,OB,6
+unizar,5,2º,Urgencias y Toxicología,OB,4
+unizar,5,2º,Geriatría y Rehabilitación,OB,4
+unizar,5,2º,Metodología de la Investigación,OB,4
+unizar,5,2º,Medicina legal y forense II,OB,3
+unizar,6,1º,Rotatorio clínico I,PE,30
+unizar,6,2º,Rotatorio clínico II,PE,24
+unizar,6,2º,Trabajo fin de grado,TFG,6
