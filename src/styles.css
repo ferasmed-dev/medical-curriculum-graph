@@ -158,3 +158,13 @@ table.data td button { background: none; border: 0; padding: 0; cursor: pointer;
   .welcome { top: 112px; max-width: 60%; }
 }
 @media (prefers-reduced-motion: reduce) { .welcome, .toast { transition: none; } }
+
+/* ---- Simulario theme: colours and logo only ---- */
+:root { --sim-accent: #6A60F5; --bg: #0E1024; --bg-1: #141731; --bg-2: #0A0C1E; --panel: rgba(24, 27, 51, .93); --panel-solid: #181B33; --raised: #1E2240; --hover: #262B4A; --active: #2E3356; --line: #2A2E4A; --line-strong: #3B4066; --fg: #F2F3FA; --muted: #A9ADC8; --dim: #6F7494; --accent: #A59EFF; }
+@media (prefers-color-scheme: light) {
+  :root { --sim-accent: #4B3FE0; --bg: #F5F6FB; --bg-1: #FFFFFF; --bg-2: #E9EBF4; --panel: rgba(255, 255, 255, .94); --panel-solid: #FFFFFF; --raised: #F3F4FA; --hover: #ECEAFE; --active: #E1DDFD; --line: #E1E3EE; --line-strong: #C9CCE0; --fg: #12142B; --muted: #5A5F7A; --dim: #7A7F99; --accent: #4B3FE0; }
+}
+.sim-brand { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: inherit; margin: 0 0 6px; }
+.sim-brand svg { display: block; flex: none; }
+.sim-brand b { font: 700 18px/1 "Space Grotesk", "Segoe UI", system-ui, sans-serif; letter-spacing: -.03em; }
+h1 { font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-serif; letter-spacing: -.02em; }
